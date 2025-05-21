@@ -1,0 +1,9441 @@
+{
+  "Disease_1": {
+    "symptoms": [
+      "loss of taste",
+      "chest pain",
+      "fever"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_2": {
+    "symptoms": [
+      "joint pain",
+      "sore throat",
+      "rash"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_3": {
+    "symptoms": [
+      "loss of smell",
+      "sensitivity to light",
+      "diarrhea",
+      "blurred vision",
+      "fever"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_4": {
+    "symptoms": [
+      "shortness of breath",
+      "cough",
+      "nausea",
+      "blurred vision",
+      "dizziness",
+      "sore throat"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_5": {
+    "symptoms": [
+      "chest pain",
+      "nausea",
+      "joint pain",
+      "fatigue",
+      "vomiting"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_6": {
+    "symptoms": [
+      "rash",
+      "nausea",
+      "shortness of breath",
+      "diarrhea"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_7": {
+    "symptoms": [
+      "shortness of breath",
+      "fatigue",
+      "loss of taste",
+      "joint pain",
+      "chest pain",
+      "fever"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_8": {
+    "symptoms": [
+      "cough",
+      "joint pain",
+      "shortness of breath",
+      "headache"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_9": {
+    "symptoms": [
+      "itching",
+      "sensitivity to light",
+      "rash"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_10": {
+    "symptoms": [
+      "diarrhea",
+      "chest pain",
+      "shortness of breath",
+      "fatigue"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_11": {
+    "symptoms": [
+      "fatigue",
+      "sore throat",
+      "runny nose",
+      "headache",
+      "vomiting",
+      "muscle pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_12": {
+    "symptoms": [
+      "itching",
+      "dizziness",
+      "sore throat"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_13": {
+    "symptoms": [
+      "dizziness",
+      "cough",
+      "runny nose",
+      "rash"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_14": {
+    "symptoms": [
+      "diarrhea",
+      "shortness of breath",
+      "loss of smell"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_15": {
+    "symptoms": [
+      "diarrhea",
+      "rash",
+      "sensitivity to light",
+      "joint pain",
+      "fever",
+      "fatigue"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_16": {
+    "symptoms": [
+      "itching",
+      "diarrhea",
+      "vomiting",
+      "shortness of breath",
+      "loss of taste"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_17": {
+    "symptoms": [
+      "diarrhea",
+      "loss of smell",
+      "dizziness",
+      "sensitivity to light"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_18": {
+    "symptoms": [
+      "runny nose",
+      "sore throat",
+      "loss of smell",
+      "loss of taste",
+      "chest pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_19": {
+    "symptoms": [
+      "sore throat",
+      "runny nose",
+      "blurred vision",
+      "rash",
+      "fatigue",
+      "muscle pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_20": {
+    "symptoms": [
+      "vomiting",
+      "loss of smell",
+      "rash",
+      "itching",
+      "nausea"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_21": {
+    "symptoms": [
+      "joint pain",
+      "nausea",
+      "dizziness",
+      "loss of smell",
+      "chest pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_22": {
+    "symptoms": [
+      "sore throat",
+      "itching",
+      "diarrhea",
+      "dizziness",
+      "fever"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_23": {
+    "symptoms": [
+      "headache",
+      "loss of smell",
+      "chest pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_24": {
+    "symptoms": [
+      "headache",
+      "diarrhea",
+      "chest pain",
+      "sensitivity to light",
+      "joint pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_25": {
+    "symptoms": [
+      "sensitivity to light",
+      "fever",
+      "chest pain",
+      "dizziness"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_26": {
+    "symptoms": [
+      "blurred vision",
+      "sensitivity to light",
+      "fever",
+      "sore throat"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_27": {
+    "symptoms": [
+      "runny nose",
+      "sensitivity to light",
+      "vomiting",
+      "fever",
+      "diarrhea"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_28": {
+    "symptoms": [
+      "shortness of breath",
+      "loss of smell",
+      "fatigue",
+      "headache"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_29": {
+    "symptoms": [
+      "headache",
+      "loss of taste",
+      "shortness of breath",
+      "nausea"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_30": {
+    "symptoms": [
+      "fever",
+      "blurred vision",
+      "fatigue",
+      "joint pain",
+      "chest pain"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_31": {
+    "symptoms": [
+      "dizziness",
+      "fever",
+      "itching",
+      "sensitivity to light"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_32": {
+    "symptoms": [
+      "cough",
+      "rash",
+      "diarrhea",
+      "chest pain",
+      "nausea",
+      "loss of taste"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_33": {
+    "symptoms": [
+      "fever",
+      "shortness of breath",
+      "sore throat",
+      "headache"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_34": {
+    "symptoms": [
+      "shortness of breath",
+      "chest pain",
+      "joint pain",
+      "runny nose",
+      "fever",
+      "blurred vision"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_35": {
+    "symptoms": [
+      "chest pain",
+      "muscle pain",
+      "vomiting"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_36": {
+    "symptoms": [
+      "fever",
+      "shortness of breath",
+      "fatigue",
+      "headache",
+      "muscle pain",
+      "cough"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_37": {
+    "symptoms": [
+      "vomiting",
+      "fatigue",
+      "runny nose",
+      "diarrhea",
+      "rash"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_38": {
+    "symptoms": [
+      "sore throat",
+      "sensitivity to light",
+      "muscle pain",
+      "itching",
+      "shortness of breath"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_39": {
+    "symptoms": [
+      "sore throat",
+      "loss of smell",
+      "blurred vision",
+      "headache",
+      "diarrhea"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_40": {
+    "symptoms": [
+      "cough",
+      "vomiting",
+      "chest pain",
+      "dizziness"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_41": {
+    "symptoms": [
+      "fever",
+      "shortness of breath",
+      "fatigue"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_42": {
+    "symptoms": [
+      "cough",
+      "joint pain",
+      "vomiting",
+      "nausea",
+      "sensitivity to light"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_43": {
+    "symptoms": [
+      "loss of taste",
+      "cough",
+      "loss of smell",
+      "fatigue",
+      "blurred vision",
+      "diarrhea"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_44": {
+    "symptoms": [
+      "loss of smell",
+      "fever",
+      "headache",
+      "chest pain",
+      "joint pain",
+      "sore throat"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_45": {
+    "symptoms": [
+      "rash",
+      "cough",
+      "runny nose",
+      "fever"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_46": {
+    "symptoms": [
+      "diarrhea",
+      "shortness of breath",
+      "chest pain",
+      "fatigue",
+      "runny nose",
+      "dizziness"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_47": {
+    "symptoms": [
+      "loss of taste",
+      "chest pain",
+      "diarrhea",
+      "joint pain",
+      "blurred vision"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_48": {
+    "symptoms": [
+      "nausea",
+      "blurred vision",
+      "fatigue",
+      "sensitivity to light"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_49": {
+    "symptoms": [
+      "nausea",
+      "vomiting",
+      "dizziness",
+      "loss of taste",
+      "diarrhea"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_50": {
+    "symptoms": [
+      "headache",
+      "rash",
+      "muscle pain",
+      "fever",
+      "nausea"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_51": {
+    "symptoms": [
+      "muscle pain",
+      "itching",
+      "diarrhea"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_52": {
+    "symptoms": [
+      "loss of taste",
+      "cough",
+      "loss of smell",
+      "fatigue"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_53": {
+    "symptoms": [
+      "sore throat",
+      "fever",
+      "diarrhea",
+      "runny nose"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_54": {
+    "symptoms": [
+      "muscle pain",
+      "blurred vision",
+      "itching",
+      "dizziness",
+      "sore throat",
+      "nausea"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_55": {
+    "symptoms": [
+      "headache",
+      "cough",
+      "chest pain"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_56": {
+    "symptoms": [
+      "muscle pain",
+      "fatigue",
+      "shortness of breath",
+      "headache"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_57": {
+    "symptoms": [
+      "dizziness",
+      "diarrhea",
+      "itching",
+      "rash",
+      "vomiting"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_58": {
+    "symptoms": [
+      "blurred vision",
+      "shortness of breath",
+      "joint pain",
+      "itching",
+      "sensitivity to light"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_59": {
+    "symptoms": [
+      "loss of taste",
+      "nausea",
+      "shortness of breath"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_60": {
+    "symptoms": [
+      "fatigue",
+      "joint pain",
+      "loss of taste",
+      "headache",
+      "runny nose",
+      "blurred vision"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_61": {
+    "symptoms": [
+      "rash",
+      "joint pain",
+      "fatigue"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_62": {
+    "symptoms": [
+      "sensitivity to light",
+      "muscle pain",
+      "rash",
+      "vomiting",
+      "runny nose"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_63": {
+    "symptoms": [
+      "nausea",
+      "sensitivity to light",
+      "vomiting",
+      "joint pain",
+      "loss of taste",
+      "loss of smell"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_64": {
+    "symptoms": [
+      "loss of smell",
+      "diarrhea",
+      "blurred vision",
+      "dizziness",
+      "fever"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_65": {
+    "symptoms": [
+      "nausea",
+      "headache",
+      "itching",
+      "runny nose"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_66": {
+    "symptoms": [
+      "itching",
+      "sensitivity to light",
+      "rash",
+      "vomiting",
+      "blurred vision",
+      "chest pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_67": {
+    "symptoms": [
+      "blurred vision",
+      "headache",
+      "joint pain",
+      "runny nose",
+      "dizziness"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_68": {
+    "symptoms": [
+      "chest pain",
+      "sensitivity to light",
+      "runny nose",
+      "cough"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_69": {
+    "symptoms": [
+      "cough",
+      "muscle pain",
+      "loss of smell",
+      "itching",
+      "runny nose"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_70": {
+    "symptoms": [
+      "fatigue",
+      "rash",
+      "sensitivity to light",
+      "chest pain",
+      "headache"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_71": {
+    "symptoms": [
+      "fatigue",
+      "diarrhea",
+      "cough",
+      "sore throat"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_72": {
+    "symptoms": [
+      "runny nose",
+      "diarrhea",
+      "shortness of breath",
+      "joint pain",
+      "fatigue",
+      "blurred vision"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_73": {
+    "symptoms": [
+      "fatigue",
+      "shortness of breath",
+      "vomiting",
+      "rash",
+      "nausea",
+      "blurred vision"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_74": {
+    "symptoms": [
+      "loss of taste",
+      "shortness of breath",
+      "joint pain",
+      "muscle pain",
+      "sore throat",
+      "fever"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_75": {
+    "symptoms": [
+      "fever",
+      "nausea",
+      "sore throat",
+      "loss of taste",
+      "diarrhea"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_76": {
+    "symptoms": [
+      "headache",
+      "runny nose",
+      "fatigue",
+      "fever"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_77": {
+    "symptoms": [
+      "sore throat",
+      "headache",
+      "loss of smell",
+      "vomiting",
+      "itching",
+      "blurred vision"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_78": {
+    "symptoms": [
+      "fatigue",
+      "sore throat",
+      "diarrhea"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_79": {
+    "symptoms": [
+      "sore throat",
+      "fatigue",
+      "cough"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_80": {
+    "symptoms": [
+      "sensitivity to light",
+      "rash",
+      "muscle pain",
+      "itching",
+      "vomiting"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_81": {
+    "symptoms": [
+      "vomiting",
+      "runny nose",
+      "cough"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_82": {
+    "symptoms": [
+      "nausea",
+      "loss of smell",
+      "fatigue",
+      "diarrhea"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_83": {
+    "symptoms": [
+      "loss of taste",
+      "diarrhea",
+      "muscle pain",
+      "rash",
+      "cough"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_84": {
+    "symptoms": [
+      "headache",
+      "joint pain",
+      "loss of smell",
+      "itching",
+      "shortness of breath"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_85": {
+    "symptoms": [
+      "muscle pain",
+      "blurred vision",
+      "shortness of breath",
+      "cough"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_86": {
+    "symptoms": [
+      "blurred vision",
+      "joint pain",
+      "sensitivity to light",
+      "nausea",
+      "chest pain",
+      "runny nose"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_87": {
+    "symptoms": [
+      "sore throat",
+      "nausea",
+      "chest pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_88": {
+    "symptoms": [
+      "fever",
+      "sore throat",
+      "muscle pain",
+      "runny nose",
+      "fatigue"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_89": {
+    "symptoms": [
+      "rash",
+      "fever",
+      "itching",
+      "blurred vision",
+      "nausea",
+      "runny nose"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_90": {
+    "symptoms": [
+      "muscle pain",
+      "diarrhea",
+      "itching"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_91": {
+    "symptoms": [
+      "loss of taste",
+      "dizziness",
+      "diarrhea"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_92": {
+    "symptoms": [
+      "sensitivity to light",
+      "muscle pain",
+      "rash",
+      "cough",
+      "blurred vision",
+      "vomiting"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_93": {
+    "symptoms": [
+      "rash",
+      "shortness of breath",
+      "cough",
+      "sore throat"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_94": {
+    "symptoms": [
+      "blurred vision",
+      "nausea",
+      "fatigue",
+      "shortness of breath",
+      "diarrhea",
+      "loss of taste"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_95": {
+    "symptoms": [
+      "headache",
+      "diarrhea",
+      "rash",
+      "chest pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_96": {
+    "symptoms": [
+      "sore throat",
+      "runny nose",
+      "headache",
+      "rash"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_97": {
+    "symptoms": [
+      "loss of taste",
+      "fever",
+      "runny nose"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_98": {
+    "symptoms": [
+      "dizziness",
+      "chest pain",
+      "diarrhea"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_99": {
+    "symptoms": [
+      "diarrhea",
+      "sore throat",
+      "headache",
+      "itching",
+      "fatigue"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_100": {
+    "symptoms": [
+      "dizziness",
+      "fatigue",
+      "vomiting"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_101": {
+    "symptoms": [
+      "blurred vision",
+      "cough",
+      "itching",
+      "fatigue",
+      "sore throat",
+      "rash"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_102": {
+    "symptoms": [
+      "nausea",
+      "muscle pain",
+      "headache"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_103": {
+    "symptoms": [
+      "joint pain",
+      "nausea",
+      "loss of taste",
+      "shortness of breath",
+      "fever",
+      "headache"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_104": {
+    "symptoms": [
+      "shortness of breath",
+      "sensitivity to light",
+      "blurred vision"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_105": {
+    "symptoms": [
+      "diarrhea",
+      "runny nose",
+      "chest pain",
+      "cough",
+      "loss of smell",
+      "loss of taste"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_106": {
+    "symptoms": [
+      "dizziness",
+      "fatigue",
+      "cough",
+      "runny nose"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_107": {
+    "symptoms": [
+      "shortness of breath",
+      "sore throat",
+      "headache",
+      "diarrhea",
+      "dizziness",
+      "runny nose"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_108": {
+    "symptoms": [
+      "runny nose",
+      "joint pain",
+      "sensitivity to light"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_109": {
+    "symptoms": [
+      "vomiting",
+      "headache",
+      "joint pain",
+      "fatigue",
+      "fever",
+      "sore throat"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_110": {
+    "symptoms": [
+      "chest pain",
+      "sensitivity to light",
+      "fatigue"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_111": {
+    "symptoms": [
+      "loss of taste",
+      "headache",
+      "cough",
+      "blurred vision",
+      "itching"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_112": {
+    "symptoms": [
+      "shortness of breath",
+      "joint pain",
+      "muscle pain",
+      "vomiting",
+      "loss of smell",
+      "sore throat"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_113": {
+    "symptoms": [
+      "dizziness",
+      "muscle pain",
+      "rash"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_114": {
+    "symptoms": [
+      "shortness of breath",
+      "runny nose",
+      "loss of taste"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_115": {
+    "symptoms": [
+      "dizziness",
+      "fatigue",
+      "runny nose",
+      "rash",
+      "loss of taste"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_116": {
+    "symptoms": [
+      "rash",
+      "loss of taste",
+      "nausea"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_117": {
+    "symptoms": [
+      "vomiting",
+      "loss of taste",
+      "sore throat",
+      "dizziness",
+      "cough"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_118": {
+    "symptoms": [
+      "sore throat",
+      "fatigue",
+      "cough",
+      "blurred vision",
+      "shortness of breath"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_119": {
+    "symptoms": [
+      "nausea",
+      "headache",
+      "dizziness",
+      "loss of taste",
+      "sensitivity to light"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_120": {
+    "symptoms": [
+      "joint pain",
+      "sore throat",
+      "fatigue",
+      "fever",
+      "chest pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_121": {
+    "symptoms": [
+      "joint pain",
+      "diarrhea",
+      "loss of smell"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_122": {
+    "symptoms": [
+      "vomiting",
+      "dizziness",
+      "joint pain",
+      "sensitivity to light",
+      "itching"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_123": {
+    "symptoms": [
+      "chest pain",
+      "nausea",
+      "blurred vision",
+      "dizziness",
+      "diarrhea",
+      "shortness of breath"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_124": {
+    "symptoms": [
+      "fatigue",
+      "dizziness",
+      "runny nose",
+      "diarrhea"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_125": {
+    "symptoms": [
+      "rash",
+      "vomiting",
+      "fever",
+      "sensitivity to light",
+      "nausea"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_126": {
+    "symptoms": [
+      "vomiting",
+      "headache",
+      "fever",
+      "loss of smell"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_127": {
+    "symptoms": [
+      "loss of smell",
+      "shortness of breath",
+      "itching"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_128": {
+    "symptoms": [
+      "loss of taste",
+      "fever",
+      "itching",
+      "runny nose",
+      "rash"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_129": {
+    "symptoms": [
+      "vomiting",
+      "blurred vision",
+      "rash",
+      "sensitivity to light"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_130": {
+    "symptoms": [
+      "itching",
+      "loss of taste",
+      "sensitivity to light",
+      "rash",
+      "chest pain",
+      "cough"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_131": {
+    "symptoms": [
+      "rash",
+      "nausea",
+      "fever",
+      "joint pain",
+      "shortness of breath",
+      "headache"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_132": {
+    "symptoms": [
+      "shortness of breath",
+      "headache",
+      "dizziness"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_133": {
+    "symptoms": [
+      "vomiting",
+      "joint pain",
+      "chest pain",
+      "headache",
+      "fever",
+      "blurred vision"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_134": {
+    "symptoms": [
+      "runny nose",
+      "rash",
+      "sensitivity to light"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_135": {
+    "symptoms": [
+      "loss of taste",
+      "diarrhea",
+      "fever",
+      "loss of smell",
+      "fatigue",
+      "sore throat"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_136": {
+    "symptoms": [
+      "loss of smell",
+      "blurred vision",
+      "muscle pain",
+      "vomiting",
+      "loss of taste"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_137": {
+    "symptoms": [
+      "sensitivity to light",
+      "fatigue",
+      "loss of smell",
+      "runny nose",
+      "blurred vision",
+      "chest pain"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_138": {
+    "symptoms": [
+      "rash",
+      "fever",
+      "vomiting",
+      "loss of taste",
+      "sensitivity to light",
+      "muscle pain"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_139": {
+    "symptoms": [
+      "rash",
+      "itching",
+      "headache",
+      "fever"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_140": {
+    "symptoms": [
+      "diarrhea",
+      "runny nose",
+      "cough",
+      "shortness of breath",
+      "loss of smell",
+      "joint pain"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_141": {
+    "symptoms": [
+      "muscle pain",
+      "vomiting",
+      "sore throat",
+      "cough"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_142": {
+    "symptoms": [
+      "muscle pain",
+      "diarrhea",
+      "runny nose",
+      "fever"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_143": {
+    "symptoms": [
+      "blurred vision",
+      "fatigue",
+      "vomiting",
+      "muscle pain",
+      "sore throat",
+      "fever"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_144": {
+    "symptoms": [
+      "loss of smell",
+      "fever",
+      "sore throat",
+      "shortness of breath"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_145": {
+    "symptoms": [
+      "muscle pain",
+      "fatigue",
+      "runny nose"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_146": {
+    "symptoms": [
+      "muscle pain",
+      "joint pain",
+      "dizziness",
+      "fatigue",
+      "sensitivity to light"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_147": {
+    "symptoms": [
+      "sore throat",
+      "joint pain",
+      "dizziness",
+      "diarrhea"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_148": {
+    "symptoms": [
+      "itching",
+      "dizziness",
+      "joint pain",
+      "nausea",
+      "sensitivity to light"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_149": {
+    "symptoms": [
+      "dizziness",
+      "vomiting",
+      "joint pain",
+      "chest pain"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_150": {
+    "symptoms": [
+      "sore throat",
+      "dizziness",
+      "diarrhea",
+      "joint pain"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_151": {
+    "symptoms": [
+      "vomiting",
+      "itching",
+      "headache",
+      "muscle pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_152": {
+    "symptoms": [
+      "loss of taste",
+      "headache",
+      "blurred vision",
+      "muscle pain",
+      "diarrhea",
+      "dizziness"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_153": {
+    "symptoms": [
+      "sensitivity to light",
+      "vomiting",
+      "loss of taste",
+      "loss of smell",
+      "nausea",
+      "joint pain"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_154": {
+    "symptoms": [
+      "shortness of breath",
+      "blurred vision",
+      "dizziness"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_155": {
+    "symptoms": [
+      "nausea",
+      "vomiting",
+      "chest pain"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_156": {
+    "symptoms": [
+      "sore throat",
+      "runny nose",
+      "diarrhea",
+      "blurred vision"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_157": {
+    "symptoms": [
+      "shortness of breath",
+      "blurred vision",
+      "chest pain",
+      "vomiting",
+      "cough",
+      "fatigue"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_158": {
+    "symptoms": [
+      "sensitivity to light",
+      "joint pain",
+      "diarrhea",
+      "runny nose",
+      "fatigue"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_159": {
+    "symptoms": [
+      "fatigue",
+      "sore throat",
+      "joint pain",
+      "headache",
+      "muscle pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_160": {
+    "symptoms": [
+      "shortness of breath",
+      "headache",
+      "muscle pain",
+      "rash",
+      "runny nose",
+      "vomiting"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_161": {
+    "symptoms": [
+      "joint pain",
+      "loss of smell",
+      "vomiting",
+      "nausea"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_162": {
+    "symptoms": [
+      "dizziness",
+      "headache",
+      "nausea",
+      "shortness of breath",
+      "fatigue"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_163": {
+    "symptoms": [
+      "sensitivity to light",
+      "muscle pain",
+      "diarrhea",
+      "chest pain",
+      "shortness of breath",
+      "rash"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_164": {
+    "symptoms": [
+      "fever",
+      "itching",
+      "sore throat"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_165": {
+    "symptoms": [
+      "dizziness",
+      "diarrhea",
+      "headache",
+      "vomiting"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_166": {
+    "symptoms": [
+      "chest pain",
+      "itching",
+      "fever"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_167": {
+    "symptoms": [
+      "muscle pain",
+      "shortness of breath",
+      "vomiting",
+      "cough",
+      "diarrhea",
+      "sore throat"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_168": {
+    "symptoms": [
+      "muscle pain",
+      "shortness of breath",
+      "joint pain",
+      "rash",
+      "loss of taste"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_169": {
+    "symptoms": [
+      "fever",
+      "fatigue",
+      "rash",
+      "runny nose",
+      "loss of smell",
+      "diarrhea"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_170": {
+    "symptoms": [
+      "sore throat",
+      "fever",
+      "chest pain"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_171": {
+    "symptoms": [
+      "cough",
+      "muscle pain",
+      "rash",
+      "itching"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_172": {
+    "symptoms": [
+      "dizziness",
+      "shortness of breath",
+      "sensitivity to light",
+      "loss of taste",
+      "blurred vision"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_173": {
+    "symptoms": [
+      "sore throat",
+      "vomiting",
+      "cough"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_174": {
+    "symptoms": [
+      "loss of smell",
+      "headache",
+      "joint pain",
+      "rash",
+      "fatigue",
+      "blurred vision"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_175": {
+    "symptoms": [
+      "itching",
+      "shortness of breath",
+      "dizziness",
+      "loss of smell",
+      "diarrhea",
+      "vomiting"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_176": {
+    "symptoms": [
+      "vomiting",
+      "sensitivity to light",
+      "cough",
+      "blurred vision",
+      "fatigue"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_177": {
+    "symptoms": [
+      "nausea",
+      "loss of smell",
+      "itching",
+      "fever",
+      "chest pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_178": {
+    "symptoms": [
+      "diarrhea",
+      "loss of smell",
+      "dizziness",
+      "cough"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_179": {
+    "symptoms": [
+      "chest pain",
+      "joint pain",
+      "sensitivity to light",
+      "headache",
+      "runny nose"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_180": {
+    "symptoms": [
+      "vomiting",
+      "fever",
+      "headache",
+      "cough",
+      "joint pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_181": {
+    "symptoms": [
+      "rash",
+      "sensitivity to light",
+      "runny nose",
+      "diarrhea",
+      "chest pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_182": {
+    "symptoms": [
+      "diarrhea",
+      "sensitivity to light",
+      "muscle pain",
+      "loss of smell",
+      "fatigue",
+      "fever"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_183": {
+    "symptoms": [
+      "diarrhea",
+      "runny nose",
+      "sensitivity to light"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_184": {
+    "symptoms": [
+      "loss of smell",
+      "shortness of breath",
+      "chest pain",
+      "nausea",
+      "joint pain",
+      "runny nose"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_185": {
+    "symptoms": [
+      "vomiting",
+      "cough",
+      "rash",
+      "blurred vision",
+      "joint pain",
+      "itching"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_186": {
+    "symptoms": [
+      "cough",
+      "sensitivity to light",
+      "headache",
+      "dizziness",
+      "itching"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_187": {
+    "symptoms": [
+      "shortness of breath",
+      "rash",
+      "fatigue",
+      "cough",
+      "sensitivity to light",
+      "joint pain"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_188": {
+    "symptoms": [
+      "muscle pain",
+      "rash",
+      "loss of smell",
+      "chest pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_189": {
+    "symptoms": [
+      "fever",
+      "chest pain",
+      "loss of taste"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_190": {
+    "symptoms": [
+      "sensitivity to light",
+      "fatigue",
+      "diarrhea",
+      "muscle pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_191": {
+    "symptoms": [
+      "joint pain",
+      "loss of smell",
+      "blurred vision",
+      "fatigue"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_192": {
+    "symptoms": [
+      "diarrhea",
+      "dizziness",
+      "vomiting",
+      "joint pain"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_193": {
+    "symptoms": [
+      "vomiting",
+      "blurred vision",
+      "joint pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_194": {
+    "symptoms": [
+      "muscle pain",
+      "loss of smell",
+      "fever",
+      "itching"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_195": {
+    "symptoms": [
+      "blurred vision",
+      "itching",
+      "fever",
+      "muscle pain"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_196": {
+    "symptoms": [
+      "fever",
+      "vomiting",
+      "fatigue",
+      "dizziness",
+      "joint pain",
+      "cough"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_197": {
+    "symptoms": [
+      "sensitivity to light",
+      "muscle pain",
+      "sore throat",
+      "cough"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_198": {
+    "symptoms": [
+      "fatigue",
+      "cough",
+      "fever"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_199": {
+    "symptoms": [
+      "runny nose",
+      "loss of smell",
+      "sore throat"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_200": {
+    "symptoms": [
+      "loss of smell",
+      "loss of taste",
+      "runny nose"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_201": {
+    "symptoms": [
+      "cough",
+      "runny nose",
+      "headache",
+      "fatigue",
+      "muscle pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_202": {
+    "symptoms": [
+      "sensitivity to light",
+      "sore throat",
+      "itching",
+      "loss of taste"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_203": {
+    "symptoms": [
+      "shortness of breath",
+      "chest pain",
+      "cough"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_204": {
+    "symptoms": [
+      "blurred vision",
+      "diarrhea",
+      "cough"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_205": {
+    "symptoms": [
+      "cough",
+      "blurred vision",
+      "runny nose"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_206": {
+    "symptoms": [
+      "diarrhea",
+      "muscle pain",
+      "blurred vision",
+      "dizziness"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_207": {
+    "symptoms": [
+      "shortness of breath",
+      "fever",
+      "joint pain",
+      "loss of smell"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_208": {
+    "symptoms": [
+      "vomiting",
+      "sore throat",
+      "itching",
+      "fever",
+      "rash",
+      "cough"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_209": {
+    "symptoms": [
+      "headache",
+      "fatigue",
+      "runny nose"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_210": {
+    "symptoms": [
+      "diarrhea",
+      "fever",
+      "joint pain",
+      "loss of taste",
+      "fatigue",
+      "chest pain"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_211": {
+    "symptoms": [
+      "joint pain",
+      "runny nose",
+      "loss of smell",
+      "nausea",
+      "fatigue",
+      "cough"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_212": {
+    "symptoms": [
+      "loss of taste",
+      "cough",
+      "diarrhea",
+      "itching",
+      "fever",
+      "rash"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_213": {
+    "symptoms": [
+      "itching",
+      "cough",
+      "diarrhea",
+      "headache",
+      "fatigue"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_214": {
+    "symptoms": [
+      "runny nose",
+      "itching",
+      "fever",
+      "sensitivity to light",
+      "dizziness"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_215": {
+    "symptoms": [
+      "loss of taste",
+      "vomiting",
+      "headache",
+      "muscle pain",
+      "dizziness"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_216": {
+    "symptoms": [
+      "rash",
+      "chest pain",
+      "loss of taste",
+      "loss of smell"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_217": {
+    "symptoms": [
+      "vomiting",
+      "cough",
+      "fatigue",
+      "nausea"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_218": {
+    "symptoms": [
+      "fever",
+      "blurred vision",
+      "dizziness"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_219": {
+    "symptoms": [
+      "vomiting",
+      "rash",
+      "sensitivity to light"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_220": {
+    "symptoms": [
+      "loss of taste",
+      "loss of smell",
+      "joint pain",
+      "itching",
+      "diarrhea",
+      "chest pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_221": {
+    "symptoms": [
+      "dizziness",
+      "muscle pain",
+      "sore throat",
+      "fatigue",
+      "cough",
+      "headache"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_222": {
+    "symptoms": [
+      "vomiting",
+      "shortness of breath",
+      "loss of smell",
+      "dizziness"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_223": {
+    "symptoms": [
+      "vomiting",
+      "dizziness",
+      "cough",
+      "sore throat",
+      "loss of smell"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_224": {
+    "symptoms": [
+      "runny nose",
+      "loss of smell",
+      "cough"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_225": {
+    "symptoms": [
+      "diarrhea",
+      "dizziness",
+      "loss of smell"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_226": {
+    "symptoms": [
+      "sore throat",
+      "rash",
+      "shortness of breath",
+      "cough"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_227": {
+    "symptoms": [
+      "shortness of breath",
+      "nausea",
+      "vomiting",
+      "blurred vision",
+      "chest pain",
+      "rash"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_228": {
+    "symptoms": [
+      "muscle pain",
+      "blurred vision",
+      "shortness of breath"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_229": {
+    "symptoms": [
+      "shortness of breath",
+      "cough",
+      "loss of taste",
+      "dizziness",
+      "rash"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_230": {
+    "symptoms": [
+      "dizziness",
+      "diarrhea",
+      "joint pain",
+      "shortness of breath",
+      "fever",
+      "loss of taste"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_231": {
+    "symptoms": [
+      "loss of taste",
+      "rash",
+      "shortness of breath"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_232": {
+    "symptoms": [
+      "sore throat",
+      "chest pain",
+      "rash",
+      "muscle pain",
+      "fatigue",
+      "nausea"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_233": {
+    "symptoms": [
+      "diarrhea",
+      "runny nose",
+      "fever",
+      "joint pain",
+      "chest pain",
+      "vomiting"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_234": {
+    "symptoms": [
+      "joint pain",
+      "runny nose",
+      "cough",
+      "muscle pain"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_235": {
+    "symptoms": [
+      "cough",
+      "shortness of breath",
+      "chest pain",
+      "runny nose"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_236": {
+    "symptoms": [
+      "chest pain",
+      "headache",
+      "rash",
+      "fatigue",
+      "shortness of breath"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_237": {
+    "symptoms": [
+      "loss of taste",
+      "vomiting",
+      "shortness of breath",
+      "itching",
+      "cough"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_238": {
+    "symptoms": [
+      "cough",
+      "nausea",
+      "itching",
+      "blurred vision",
+      "dizziness",
+      "fever"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_239": {
+    "symptoms": [
+      "joint pain",
+      "rash",
+      "fatigue",
+      "chest pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_240": {
+    "symptoms": [
+      "rash",
+      "sensitivity to light",
+      "headache"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_241": {
+    "symptoms": [
+      "cough",
+      "diarrhea",
+      "loss of taste"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_242": {
+    "symptoms": [
+      "itching",
+      "headache",
+      "fever",
+      "muscle pain",
+      "dizziness",
+      "nausea"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_243": {
+    "symptoms": [
+      "joint pain",
+      "fatigue",
+      "sore throat",
+      "nausea",
+      "chest pain",
+      "itching"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_244": {
+    "symptoms": [
+      "nausea",
+      "muscle pain",
+      "dizziness",
+      "blurred vision",
+      "rash",
+      "loss of taste"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_245": {
+    "symptoms": [
+      "cough",
+      "loss of smell",
+      "joint pain"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_246": {
+    "symptoms": [
+      "sore throat",
+      "fever",
+      "loss of smell"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_247": {
+    "symptoms": [
+      "fatigue",
+      "loss of taste",
+      "headache"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_248": {
+    "symptoms": [
+      "shortness of breath",
+      "joint pain",
+      "blurred vision",
+      "fatigue",
+      "vomiting"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_249": {
+    "symptoms": [
+      "runny nose",
+      "muscle pain",
+      "loss of smell",
+      "loss of taste",
+      "diarrhea",
+      "blurred vision"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_250": {
+    "symptoms": [
+      "fatigue",
+      "sensitivity to light",
+      "muscle pain",
+      "nausea"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_251": {
+    "symptoms": [
+      "nausea",
+      "loss of taste",
+      "sensitivity to light"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_252": {
+    "symptoms": [
+      "vomiting",
+      "muscle pain",
+      "loss of smell",
+      "shortness of breath",
+      "cough"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_253": {
+    "symptoms": [
+      "sensitivity to light",
+      "muscle pain",
+      "nausea",
+      "vomiting",
+      "fatigue"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_254": {
+    "symptoms": [
+      "chest pain",
+      "dizziness",
+      "fever",
+      "blurred vision",
+      "loss of smell",
+      "itching"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_255": {
+    "symptoms": [
+      "itching",
+      "sore throat",
+      "rash",
+      "shortness of breath",
+      "loss of smell"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_256": {
+    "symptoms": [
+      "diarrhea",
+      "runny nose",
+      "dizziness"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_257": {
+    "symptoms": [
+      "loss of smell",
+      "blurred vision",
+      "shortness of breath",
+      "nausea",
+      "fever",
+      "headache"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_258": {
+    "symptoms": [
+      "itching",
+      "dizziness",
+      "loss of smell"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_259": {
+    "symptoms": [
+      "loss of smell",
+      "loss of taste",
+      "blurred vision",
+      "vomiting"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_260": {
+    "symptoms": [
+      "joint pain",
+      "chest pain",
+      "loss of taste"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_261": {
+    "symptoms": [
+      "nausea",
+      "vomiting",
+      "fever",
+      "dizziness",
+      "chest pain",
+      "sore throat"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_262": {
+    "symptoms": [
+      "joint pain",
+      "loss of smell",
+      "nausea"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_263": {
+    "symptoms": [
+      "runny nose",
+      "blurred vision",
+      "sore throat",
+      "chest pain",
+      "shortness of breath"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_264": {
+    "symptoms": [
+      "sore throat",
+      "fatigue",
+      "cough",
+      "blurred vision",
+      "chest pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_265": {
+    "symptoms": [
+      "muscle pain",
+      "sore throat",
+      "loss of taste"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_266": {
+    "symptoms": [
+      "rash",
+      "loss of smell",
+      "muscle pain",
+      "sensitivity to light",
+      "vomiting"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_267": {
+    "symptoms": [
+      "itching",
+      "sore throat",
+      "cough",
+      "fever"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_268": {
+    "symptoms": [
+      "fatigue",
+      "runny nose",
+      "vomiting",
+      "loss of smell",
+      "fever"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_269": {
+    "symptoms": [
+      "cough",
+      "fever",
+      "nausea",
+      "sensitivity to light",
+      "fatigue"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_270": {
+    "symptoms": [
+      "diarrhea",
+      "dizziness",
+      "fever",
+      "cough",
+      "headache"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_271": {
+    "symptoms": [
+      "rash",
+      "cough",
+      "dizziness"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_272": {
+    "symptoms": [
+      "sensitivity to light",
+      "fever",
+      "muscle pain",
+      "loss of smell"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_273": {
+    "symptoms": [
+      "diarrhea",
+      "blurred vision",
+      "fatigue",
+      "vomiting"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_274": {
+    "symptoms": [
+      "muscle pain",
+      "sensitivity to light",
+      "rash"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_275": {
+    "symptoms": [
+      "chest pain",
+      "loss of taste",
+      "cough",
+      "muscle pain",
+      "sore throat"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_276": {
+    "symptoms": [
+      "nausea",
+      "sore throat",
+      "chest pain"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_277": {
+    "symptoms": [
+      "fatigue",
+      "rash",
+      "loss of smell"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_278": {
+    "symptoms": [
+      "nausea",
+      "fatigue",
+      "blurred vision",
+      "sore throat",
+      "loss of taste"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_279": {
+    "symptoms": [
+      "dizziness",
+      "loss of taste",
+      "sore throat",
+      "cough"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_280": {
+    "symptoms": [
+      "loss of smell",
+      "sensitivity to light",
+      "cough",
+      "runny nose",
+      "nausea",
+      "chest pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_281": {
+    "symptoms": [
+      "cough",
+      "fever",
+      "diarrhea"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_282": {
+    "symptoms": [
+      "shortness of breath",
+      "loss of smell",
+      "runny nose",
+      "headache",
+      "joint pain"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_283": {
+    "symptoms": [
+      "loss of smell",
+      "blurred vision",
+      "muscle pain",
+      "dizziness",
+      "rash"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_284": {
+    "symptoms": [
+      "sensitivity to light",
+      "cough",
+      "fever",
+      "vomiting"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_285": {
+    "symptoms": [
+      "loss of taste",
+      "runny nose",
+      "cough",
+      "chest pain",
+      "sensitivity to light"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_286": {
+    "symptoms": [
+      "sensitivity to light",
+      "blurred vision",
+      "muscle pain",
+      "loss of smell",
+      "vomiting",
+      "cough"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_287": {
+    "symptoms": [
+      "vomiting",
+      "loss of smell",
+      "runny nose",
+      "diarrhea",
+      "joint pain"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_288": {
+    "symptoms": [
+      "blurred vision",
+      "shortness of breath",
+      "vomiting",
+      "nausea",
+      "dizziness",
+      "loss of smell"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_289": {
+    "symptoms": [
+      "joint pain",
+      "shortness of breath",
+      "sensitivity to light"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_290": {
+    "symptoms": [
+      "shortness of breath",
+      "rash",
+      "chest pain",
+      "sensitivity to light"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_291": {
+    "symptoms": [
+      "dizziness",
+      "blurred vision",
+      "runny nose",
+      "joint pain"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_292": {
+    "symptoms": [
+      "fatigue",
+      "vomiting",
+      "cough",
+      "chest pain",
+      "diarrhea",
+      "dizziness"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_293": {
+    "symptoms": [
+      "rash",
+      "fever",
+      "loss of taste"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_294": {
+    "symptoms": [
+      "dizziness",
+      "cough",
+      "joint pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_295": {
+    "symptoms": [
+      "fever",
+      "chest pain",
+      "fatigue",
+      "joint pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_296": {
+    "symptoms": [
+      "dizziness",
+      "vomiting",
+      "fever"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_297": {
+    "symptoms": [
+      "diarrhea",
+      "sore throat",
+      "chest pain",
+      "itching",
+      "fever"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_298": {
+    "symptoms": [
+      "shortness of breath",
+      "runny nose",
+      "diarrhea",
+      "itching",
+      "muscle pain"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_299": {
+    "symptoms": [
+      "rash",
+      "fever",
+      "cough",
+      "runny nose"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_300": {
+    "symptoms": [
+      "runny nose",
+      "fever",
+      "sensitivity to light",
+      "blurred vision",
+      "muscle pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_301": {
+    "symptoms": [
+      "runny nose",
+      "blurred vision",
+      "chest pain",
+      "sensitivity to light",
+      "headache"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_302": {
+    "symptoms": [
+      "runny nose",
+      "itching",
+      "blurred vision",
+      "fever",
+      "sore throat"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_303": {
+    "symptoms": [
+      "headache",
+      "cough",
+      "shortness of breath",
+      "sensitivity to light",
+      "loss of smell"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_304": {
+    "symptoms": [
+      "rash",
+      "cough",
+      "loss of smell",
+      "muscle pain",
+      "sensitivity to light",
+      "dizziness"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_305": {
+    "symptoms": [
+      "cough",
+      "itching",
+      "dizziness",
+      "joint pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_306": {
+    "symptoms": [
+      "vomiting",
+      "itching",
+      "shortness of breath",
+      "blurred vision",
+      "headache"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_307": {
+    "symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "blurred vision",
+      "headache",
+      "runny nose",
+      "dizziness"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_308": {
+    "symptoms": [
+      "itching",
+      "chest pain",
+      "loss of taste",
+      "rash"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_309": {
+    "symptoms": [
+      "shortness of breath",
+      "nausea",
+      "itching",
+      "chest pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_310": {
+    "symptoms": [
+      "nausea",
+      "joint pain",
+      "vomiting",
+      "fatigue"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_311": {
+    "symptoms": [
+      "muscle pain",
+      "headache",
+      "cough",
+      "loss of smell",
+      "joint pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_312": {
+    "symptoms": [
+      "diarrhea",
+      "runny nose",
+      "sore throat",
+      "loss of smell",
+      "shortness of breath"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_313": {
+    "symptoms": [
+      "joint pain",
+      "muscle pain",
+      "headache",
+      "sore throat",
+      "shortness of breath",
+      "runny nose"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_314": {
+    "symptoms": [
+      "cough",
+      "fatigue",
+      "vomiting",
+      "diarrhea",
+      "sensitivity to light",
+      "chest pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_315": {
+    "symptoms": [
+      "shortness of breath",
+      "joint pain",
+      "loss of taste",
+      "cough"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_316": {
+    "symptoms": [
+      "loss of taste",
+      "loss of smell",
+      "fatigue",
+      "fever",
+      "headache"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_317": {
+    "symptoms": [
+      "fatigue",
+      "rash",
+      "shortness of breath",
+      "diarrhea",
+      "itching",
+      "cough"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_318": {
+    "symptoms": [
+      "dizziness",
+      "headache",
+      "shortness of breath",
+      "rash"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_319": {
+    "symptoms": [
+      "headache",
+      "fatigue",
+      "blurred vision",
+      "fever"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_320": {
+    "symptoms": [
+      "loss of smell",
+      "diarrhea",
+      "fatigue",
+      "sensitivity to light",
+      "headache",
+      "shortness of breath"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_321": {
+    "symptoms": [
+      "headache",
+      "rash",
+      "sensitivity to light"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_322": {
+    "symptoms": [
+      "nausea",
+      "dizziness",
+      "sensitivity to light"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_323": {
+    "symptoms": [
+      "cough",
+      "vomiting",
+      "sore throat",
+      "nausea",
+      "chest pain",
+      "headache"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_324": {
+    "symptoms": [
+      "loss of taste",
+      "rash",
+      "blurred vision"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_325": {
+    "symptoms": [
+      "muscle pain",
+      "shortness of breath",
+      "blurred vision",
+      "rash"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_326": {
+    "symptoms": [
+      "nausea",
+      "fever",
+      "joint pain",
+      "fatigue"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_327": {
+    "symptoms": [
+      "sensitivity to light",
+      "itching",
+      "diarrhea",
+      "rash"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_328": {
+    "symptoms": [
+      "loss of smell",
+      "cough",
+      "blurred vision"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_329": {
+    "symptoms": [
+      "headache",
+      "nausea",
+      "rash"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_330": {
+    "symptoms": [
+      "runny nose",
+      "diarrhea",
+      "rash",
+      "cough",
+      "chest pain",
+      "headache"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_331": {
+    "symptoms": [
+      "sensitivity to light",
+      "chest pain",
+      "loss of smell",
+      "dizziness",
+      "loss of taste",
+      "muscle pain"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_332": {
+    "symptoms": [
+      "sensitivity to light",
+      "sore throat",
+      "fever",
+      "blurred vision",
+      "dizziness",
+      "headache"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_333": {
+    "symptoms": [
+      "rash",
+      "joint pain",
+      "muscle pain",
+      "headache",
+      "runny nose"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_334": {
+    "symptoms": [
+      "sensitivity to light",
+      "diarrhea",
+      "muscle pain",
+      "rash",
+      "fever",
+      "joint pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_335": {
+    "symptoms": [
+      "vomiting",
+      "shortness of breath",
+      "sore throat",
+      "runny nose",
+      "nausea",
+      "sensitivity to light"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_336": {
+    "symptoms": [
+      "joint pain",
+      "itching",
+      "shortness of breath"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_337": {
+    "symptoms": [
+      "rash",
+      "runny nose",
+      "diarrhea",
+      "sore throat"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_338": {
+    "symptoms": [
+      "diarrhea",
+      "dizziness",
+      "vomiting",
+      "rash",
+      "nausea"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_339": {
+    "symptoms": [
+      "headache",
+      "fever",
+      "chest pain"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_340": {
+    "symptoms": [
+      "muscle pain",
+      "joint pain",
+      "loss of taste",
+      "fever",
+      "vomiting"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_341": {
+    "symptoms": [
+      "diarrhea",
+      "runny nose",
+      "muscle pain",
+      "joint pain",
+      "headache"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_342": {
+    "symptoms": [
+      "shortness of breath",
+      "runny nose",
+      "nausea",
+      "sensitivity to light",
+      "vomiting"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_343": {
+    "symptoms": [
+      "dizziness",
+      "rash",
+      "chest pain",
+      "fever"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_344": {
+    "symptoms": [
+      "sore throat",
+      "vomiting",
+      "fatigue",
+      "headache"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_345": {
+    "symptoms": [
+      "cough",
+      "sensitivity to light",
+      "shortness of breath"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_346": {
+    "symptoms": [
+      "fever",
+      "runny nose",
+      "nausea"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_347": {
+    "symptoms": [
+      "cough",
+      "sore throat",
+      "blurred vision",
+      "nausea"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_348": {
+    "symptoms": [
+      "sensitivity to light",
+      "diarrhea",
+      "cough",
+      "runny nose",
+      "chest pain"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_349": {
+    "symptoms": [
+      "vomiting",
+      "fever",
+      "joint pain",
+      "rash",
+      "itching",
+      "blurred vision"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_350": {
+    "symptoms": [
+      "chest pain",
+      "loss of smell",
+      "nausea",
+      "sensitivity to light"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_351": {
+    "symptoms": [
+      "nausea",
+      "sensitivity to light",
+      "fever",
+      "headache",
+      "vomiting"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_352": {
+    "symptoms": [
+      "sensitivity to light",
+      "runny nose",
+      "dizziness"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_353": {
+    "symptoms": [
+      "sensitivity to light",
+      "diarrhea",
+      "vomiting",
+      "blurred vision"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_354": {
+    "symptoms": [
+      "shortness of breath",
+      "cough",
+      "chest pain"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_355": {
+    "symptoms": [
+      "sore throat",
+      "headache",
+      "blurred vision",
+      "muscle pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_356": {
+    "symptoms": [
+      "fatigue",
+      "shortness of breath",
+      "joint pain",
+      "cough",
+      "sensitivity to light"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_357": {
+    "symptoms": [
+      "cough",
+      "muscle pain",
+      "sensitivity to light"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_358": {
+    "symptoms": [
+      "fever",
+      "shortness of breath",
+      "blurred vision",
+      "dizziness",
+      "vomiting",
+      "itching"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_359": {
+    "symptoms": [
+      "itching",
+      "fatigue",
+      "shortness of breath"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_360": {
+    "symptoms": [
+      "nausea",
+      "rash",
+      "chest pain",
+      "shortness of breath",
+      "dizziness"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_361": {
+    "symptoms": [
+      "fatigue",
+      "shortness of breath",
+      "cough",
+      "loss of taste"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_362": {
+    "symptoms": [
+      "cough",
+      "blurred vision",
+      "muscle pain",
+      "loss of taste",
+      "headache",
+      "chest pain"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_363": {
+    "symptoms": [
+      "rash",
+      "runny nose",
+      "loss of smell",
+      "sensitivity to light"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_364": {
+    "symptoms": [
+      "rash",
+      "sensitivity to light",
+      "shortness of breath",
+      "blurred vision",
+      "vomiting"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_365": {
+    "symptoms": [
+      "sensitivity to light",
+      "runny nose",
+      "blurred vision"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_366": {
+    "symptoms": [
+      "blurred vision",
+      "sore throat",
+      "muscle pain",
+      "diarrhea"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_367": {
+    "symptoms": [
+      "itching",
+      "diarrhea",
+      "sensitivity to light",
+      "rash"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_368": {
+    "symptoms": [
+      "blurred vision",
+      "loss of smell",
+      "fatigue",
+      "itching",
+      "diarrhea"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_369": {
+    "symptoms": [
+      "fever",
+      "headache",
+      "loss of taste"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_370": {
+    "symptoms": [
+      "chest pain",
+      "fatigue",
+      "itching"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_371": {
+    "symptoms": [
+      "diarrhea",
+      "loss of smell",
+      "dizziness"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_372": {
+    "symptoms": [
+      "itching",
+      "vomiting",
+      "rash",
+      "shortness of breath",
+      "nausea"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_373": {
+    "symptoms": [
+      "muscle pain",
+      "rash",
+      "loss of smell",
+      "joint pain"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_374": {
+    "symptoms": [
+      "diarrhea",
+      "rash",
+      "runny nose"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_375": {
+    "symptoms": [
+      "sensitivity to light",
+      "rash",
+      "fatigue"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_376": {
+    "symptoms": [
+      "vomiting",
+      "runny nose",
+      "blurred vision",
+      "chest pain",
+      "headache",
+      "fatigue"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_377": {
+    "symptoms": [
+      "sensitivity to light",
+      "runny nose",
+      "fever"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_378": {
+    "symptoms": [
+      "shortness of breath",
+      "itching",
+      "muscle pain"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_379": {
+    "symptoms": [
+      "sore throat",
+      "cough",
+      "nausea",
+      "vomiting"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_380": {
+    "symptoms": [
+      "loss of smell",
+      "shortness of breath",
+      "itching",
+      "joint pain"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_381": {
+    "symptoms": [
+      "runny nose",
+      "muscle pain",
+      "chest pain",
+      "shortness of breath",
+      "sore throat"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_382": {
+    "symptoms": [
+      "shortness of breath",
+      "vomiting",
+      "sensitivity to light",
+      "runny nose",
+      "joint pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_383": {
+    "symptoms": [
+      "diarrhea",
+      "sensitivity to light",
+      "joint pain",
+      "shortness of breath",
+      "chest pain",
+      "muscle pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_384": {
+    "symptoms": [
+      "fever",
+      "loss of taste",
+      "shortness of breath"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_385": {
+    "symptoms": [
+      "muscle pain",
+      "vomiting",
+      "fever"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_386": {
+    "symptoms": [
+      "headache",
+      "fever",
+      "itching",
+      "shortness of breath"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_387": {
+    "symptoms": [
+      "itching",
+      "chest pain",
+      "loss of taste"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_388": {
+    "symptoms": [
+      "joint pain",
+      "itching",
+      "shortness of breath",
+      "blurred vision",
+      "nausea",
+      "headache"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_389": {
+    "symptoms": [
+      "headache",
+      "nausea",
+      "sore throat",
+      "shortness of breath",
+      "dizziness",
+      "fever"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_390": {
+    "symptoms": [
+      "diarrhea",
+      "sore throat",
+      "chest pain",
+      "runny nose"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_391": {
+    "symptoms": [
+      "joint pain",
+      "blurred vision",
+      "rash",
+      "itching",
+      "loss of smell",
+      "dizziness"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_392": {
+    "symptoms": [
+      "nausea",
+      "dizziness",
+      "sensitivity to light",
+      "itching"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_393": {
+    "symptoms": [
+      "sore throat",
+      "fever",
+      "rash",
+      "cough"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_394": {
+    "symptoms": [
+      "sore throat",
+      "fatigue",
+      "diarrhea"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_395": {
+    "symptoms": [
+      "fatigue",
+      "runny nose",
+      "dizziness"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_396": {
+    "symptoms": [
+      "fever",
+      "loss of taste",
+      "nausea",
+      "diarrhea"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_397": {
+    "symptoms": [
+      "muscle pain",
+      "loss of taste",
+      "runny nose",
+      "sore throat",
+      "loss of smell",
+      "joint pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_398": {
+    "symptoms": [
+      "blurred vision",
+      "fatigue",
+      "joint pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_399": {
+    "symptoms": [
+      "chest pain",
+      "sore throat",
+      "nausea"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_400": {
+    "symptoms": [
+      "rash",
+      "sensitivity to light",
+      "cough",
+      "itching"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_401": {
+    "symptoms": [
+      "loss of taste",
+      "itching",
+      "vomiting",
+      "sensitivity to light"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_402": {
+    "symptoms": [
+      "blurred vision",
+      "dizziness",
+      "sore throat"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_403": {
+    "symptoms": [
+      "rash",
+      "loss of smell",
+      "chest pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_404": {
+    "symptoms": [
+      "fever",
+      "vomiting",
+      "sore throat",
+      "blurred vision",
+      "nausea"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_405": {
+    "symptoms": [
+      "blurred vision",
+      "nausea",
+      "fever",
+      "sensitivity to light"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_406": {
+    "symptoms": [
+      "loss of taste",
+      "cough",
+      "diarrhea",
+      "fever"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_407": {
+    "symptoms": [
+      "loss of taste",
+      "joint pain",
+      "cough",
+      "blurred vision",
+      "vomiting",
+      "nausea"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_408": {
+    "symptoms": [
+      "headache",
+      "chest pain",
+      "diarrhea",
+      "cough",
+      "dizziness",
+      "fever"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_409": {
+    "symptoms": [
+      "itching",
+      "rash",
+      "sore throat",
+      "nausea",
+      "loss of taste",
+      "headache"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_410": {
+    "symptoms": [
+      "shortness of breath",
+      "joint pain",
+      "blurred vision",
+      "rash"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_411": {
+    "symptoms": [
+      "loss of smell",
+      "vomiting",
+      "cough"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_412": {
+    "symptoms": [
+      "headache",
+      "vomiting",
+      "joint pain"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_413": {
+    "symptoms": [
+      "loss of taste",
+      "joint pain",
+      "fever",
+      "diarrhea",
+      "sensitivity to light"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_414": {
+    "symptoms": [
+      "runny nose",
+      "diarrhea",
+      "blurred vision"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_415": {
+    "symptoms": [
+      "sensitivity to light",
+      "nausea",
+      "fever",
+      "shortness of breath",
+      "chest pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_416": {
+    "symptoms": [
+      "sore throat",
+      "rash",
+      "diarrhea",
+      "headache",
+      "shortness of breath"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_417": {
+    "symptoms": [
+      "rash",
+      "diarrhea",
+      "headache",
+      "joint pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_418": {
+    "symptoms": [
+      "fever",
+      "loss of smell",
+      "sore throat",
+      "itching"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_419": {
+    "symptoms": [
+      "nausea",
+      "fatigue",
+      "muscle pain",
+      "loss of taste"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_420": {
+    "symptoms": [
+      "loss of smell",
+      "fever",
+      "runny nose",
+      "shortness of breath",
+      "nausea",
+      "vomiting"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_421": {
+    "symptoms": [
+      "joint pain",
+      "loss of taste",
+      "headache",
+      "dizziness"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_422": {
+    "symptoms": [
+      "dizziness",
+      "itching",
+      "loss of smell"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_423": {
+    "symptoms": [
+      "blurred vision",
+      "vomiting",
+      "itching",
+      "nausea",
+      "chest pain",
+      "rash"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_424": {
+    "symptoms": [
+      "cough",
+      "rash",
+      "muscle pain"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_425": {
+    "symptoms": [
+      "itching",
+      "runny nose",
+      "muscle pain",
+      "shortness of breath"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_426": {
+    "symptoms": [
+      "loss of taste",
+      "cough",
+      "joint pain"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_427": {
+    "symptoms": [
+      "loss of taste",
+      "sensitivity to light",
+      "vomiting",
+      "runny nose"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_428": {
+    "symptoms": [
+      "fever",
+      "runny nose",
+      "diarrhea"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_429": {
+    "symptoms": [
+      "itching",
+      "muscle pain",
+      "diarrhea",
+      "loss of taste",
+      "nausea",
+      "fatigue"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_430": {
+    "symptoms": [
+      "cough",
+      "chest pain",
+      "joint pain",
+      "runny nose",
+      "shortness of breath"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_431": {
+    "symptoms": [
+      "dizziness",
+      "fever",
+      "blurred vision",
+      "diarrhea",
+      "chest pain",
+      "shortness of breath"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_432": {
+    "symptoms": [
+      "cough",
+      "headache",
+      "runny nose",
+      "fatigue"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_433": {
+    "symptoms": [
+      "sore throat",
+      "loss of smell",
+      "muscle pain",
+      "dizziness",
+      "runny nose",
+      "fatigue"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_434": {
+    "symptoms": [
+      "loss of smell",
+      "fatigue",
+      "cough",
+      "diarrhea"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_435": {
+    "symptoms": [
+      "sensitivity to light",
+      "loss of taste",
+      "sore throat",
+      "fatigue",
+      "muscle pain",
+      "vomiting"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_436": {
+    "symptoms": [
+      "itching",
+      "cough",
+      "joint pain"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_437": {
+    "symptoms": [
+      "cough",
+      "rash",
+      "sensitivity to light",
+      "joint pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_438": {
+    "symptoms": [
+      "runny nose",
+      "nausea",
+      "muscle pain",
+      "blurred vision",
+      "loss of smell",
+      "diarrhea"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_439": {
+    "symptoms": [
+      "fatigue",
+      "chest pain",
+      "itching",
+      "loss of smell"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_440": {
+    "symptoms": [
+      "rash",
+      "vomiting",
+      "loss of taste",
+      "loss of smell",
+      "blurred vision",
+      "nausea"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_441": {
+    "symptoms": [
+      "loss of smell",
+      "diarrhea",
+      "rash"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_442": {
+    "symptoms": [
+      "dizziness",
+      "sore throat",
+      "sensitivity to light"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_443": {
+    "symptoms": [
+      "fatigue",
+      "joint pain",
+      "chest pain",
+      "muscle pain",
+      "fever",
+      "headache"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_444": {
+    "symptoms": [
+      "dizziness",
+      "vomiting",
+      "sore throat"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_445": {
+    "symptoms": [
+      "fatigue",
+      "loss of taste",
+      "sore throat",
+      "itching",
+      "fever",
+      "shortness of breath"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_446": {
+    "symptoms": [
+      "rash",
+      "runny nose",
+      "nausea",
+      "loss of taste"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_447": {
+    "symptoms": [
+      "loss of smell",
+      "vomiting",
+      "sore throat",
+      "blurred vision"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_448": {
+    "symptoms": [
+      "fatigue",
+      "muscle pain",
+      "fever"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_449": {
+    "symptoms": [
+      "vomiting",
+      "headache",
+      "loss of smell",
+      "runny nose",
+      "fever"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_450": {
+    "symptoms": [
+      "sore throat",
+      "joint pain",
+      "muscle pain",
+      "cough",
+      "blurred vision",
+      "sensitivity to light"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_451": {
+    "symptoms": [
+      "sensitivity to light",
+      "joint pain",
+      "shortness of breath"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_452": {
+    "symptoms": [
+      "itching",
+      "runny nose",
+      "chest pain",
+      "sore throat"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_453": {
+    "symptoms": [
+      "blurred vision",
+      "vomiting",
+      "shortness of breath",
+      "rash",
+      "headache"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_454": {
+    "symptoms": [
+      "sensitivity to light",
+      "chest pain",
+      "fever",
+      "runny nose"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_455": {
+    "symptoms": [
+      "loss of smell",
+      "headache",
+      "joint pain",
+      "rash"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_456": {
+    "symptoms": [
+      "cough",
+      "itching",
+      "fatigue",
+      "sore throat",
+      "diarrhea"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_457": {
+    "symptoms": [
+      "sore throat",
+      "blurred vision",
+      "loss of smell"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_458": {
+    "symptoms": [
+      "headache",
+      "nausea",
+      "fever",
+      "blurred vision",
+      "rash",
+      "diarrhea"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_459": {
+    "symptoms": [
+      "runny nose",
+      "cough",
+      "rash",
+      "chest pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_460": {
+    "symptoms": [
+      "shortness of breath",
+      "rash",
+      "headache",
+      "vomiting"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_461": {
+    "symptoms": [
+      "fatigue",
+      "vomiting",
+      "sensitivity to light"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_462": {
+    "symptoms": [
+      "sore throat",
+      "headache",
+      "vomiting"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_463": {
+    "symptoms": [
+      "sore throat",
+      "itching",
+      "headache",
+      "diarrhea"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_464": {
+    "symptoms": [
+      "blurred vision",
+      "cough",
+      "dizziness",
+      "nausea",
+      "loss of taste"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_465": {
+    "symptoms": [
+      "fatigue",
+      "loss of smell",
+      "blurred vision",
+      "nausea",
+      "muscle pain"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_466": {
+    "symptoms": [
+      "headache",
+      "blurred vision",
+      "nausea",
+      "rash",
+      "dizziness",
+      "diarrhea"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_467": {
+    "symptoms": [
+      "itching",
+      "runny nose",
+      "diarrhea",
+      "nausea",
+      "loss of smell",
+      "joint pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_468": {
+    "symptoms": [
+      "muscle pain",
+      "diarrhea",
+      "loss of smell",
+      "itching",
+      "shortness of breath"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_469": {
+    "symptoms": [
+      "diarrhea",
+      "chest pain",
+      "fatigue"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_470": {
+    "symptoms": [
+      "muscle pain",
+      "rash",
+      "itching"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_471": {
+    "symptoms": [
+      "shortness of breath",
+      "sore throat",
+      "joint pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_472": {
+    "symptoms": [
+      "diarrhea",
+      "nausea",
+      "loss of taste",
+      "headache",
+      "itching",
+      "loss of smell"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_473": {
+    "symptoms": [
+      "sore throat",
+      "chest pain",
+      "blurred vision"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_474": {
+    "symptoms": [
+      "runny nose",
+      "blurred vision",
+      "dizziness",
+      "fatigue",
+      "rash",
+      "diarrhea"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_475": {
+    "symptoms": [
+      "blurred vision",
+      "fever",
+      "muscle pain",
+      "itching"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_476": {
+    "symptoms": [
+      "runny nose",
+      "loss of smell",
+      "rash",
+      "diarrhea",
+      "sensitivity to light",
+      "headache"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_477": {
+    "symptoms": [
+      "sensitivity to light",
+      "blurred vision",
+      "sore throat",
+      "runny nose",
+      "chest pain",
+      "fever"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_478": {
+    "symptoms": [
+      "rash",
+      "dizziness",
+      "fever"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_479": {
+    "symptoms": [
+      "nausea",
+      "cough",
+      "muscle pain",
+      "headache",
+      "itching",
+      "joint pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_480": {
+    "symptoms": [
+      "sensitivity to light",
+      "fatigue",
+      "headache",
+      "vomiting",
+      "fever"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_481": {
+    "symptoms": [
+      "headache",
+      "joint pain",
+      "sensitivity to light",
+      "muscle pain",
+      "blurred vision"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_482": {
+    "symptoms": [
+      "fever",
+      "loss of taste",
+      "sensitivity to light",
+      "itching",
+      "muscle pain"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_483": {
+    "symptoms": [
+      "shortness of breath",
+      "headache",
+      "vomiting",
+      "blurred vision"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_484": {
+    "symptoms": [
+      "runny nose",
+      "nausea",
+      "dizziness",
+      "fever",
+      "blurred vision",
+      "fatigue"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_485": {
+    "symptoms": [
+      "diarrhea",
+      "sore throat",
+      "runny nose"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_486": {
+    "symptoms": [
+      "sensitivity to light",
+      "runny nose",
+      "joint pain"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_487": {
+    "symptoms": [
+      "nausea",
+      "diarrhea",
+      "headache"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_488": {
+    "symptoms": [
+      "fever",
+      "sore throat",
+      "nausea",
+      "diarrhea",
+      "itching"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_489": {
+    "symptoms": [
+      "dizziness",
+      "loss of smell",
+      "fatigue",
+      "cough",
+      "muscle pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_490": {
+    "symptoms": [
+      "sensitivity to light",
+      "headache",
+      "diarrhea",
+      "chest pain",
+      "runny nose",
+      "muscle pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_491": {
+    "symptoms": [
+      "loss of smell",
+      "loss of taste",
+      "fatigue",
+      "cough",
+      "runny nose"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_492": {
+    "symptoms": [
+      "joint pain",
+      "muscle pain",
+      "fever",
+      "shortness of breath",
+      "nausea",
+      "diarrhea"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_493": {
+    "symptoms": [
+      "cough",
+      "shortness of breath",
+      "joint pain",
+      "nausea"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_494": {
+    "symptoms": [
+      "blurred vision",
+      "joint pain",
+      "diarrhea",
+      "fatigue",
+      "headache",
+      "loss of smell"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_495": {
+    "symptoms": [
+      "fever",
+      "fatigue",
+      "blurred vision",
+      "cough",
+      "loss of smell"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_496": {
+    "symptoms": [
+      "blurred vision",
+      "dizziness",
+      "cough",
+      "fatigue",
+      "itching",
+      "loss of taste"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_497": {
+    "symptoms": [
+      "blurred vision",
+      "dizziness",
+      "loss of smell",
+      "loss of taste",
+      "runny nose"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_498": {
+    "symptoms": [
+      "muscle pain",
+      "fatigue",
+      "dizziness",
+      "joint pain"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_499": {
+    "symptoms": [
+      "itching",
+      "blurred vision",
+      "vomiting",
+      "loss of smell"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_500": {
+    "symptoms": [
+      "sore throat",
+      "blurred vision",
+      "sensitivity to light",
+      "nausea",
+      "runny nose"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_501": {
+    "symptoms": [
+      "loss of smell",
+      "blurred vision",
+      "fatigue",
+      "headache"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_502": {
+    "symptoms": [
+      "loss of taste",
+      "vomiting",
+      "sensitivity to light",
+      "sore throat",
+      "chest pain",
+      "blurred vision"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_503": {
+    "symptoms": [
+      "blurred vision",
+      "sensitivity to light",
+      "diarrhea",
+      "fatigue"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_504": {
+    "symptoms": [
+      "joint pain",
+      "rash",
+      "sore throat",
+      "loss of smell",
+      "muscle pain",
+      "nausea"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_505": {
+    "symptoms": [
+      "diarrhea",
+      "loss of smell",
+      "fever"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_506": {
+    "symptoms": [
+      "loss of taste",
+      "sensitivity to light",
+      "headache",
+      "runny nose"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_507": {
+    "symptoms": [
+      "sore throat",
+      "chest pain",
+      "runny nose",
+      "sensitivity to light",
+      "fever",
+      "itching"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_508": {
+    "symptoms": [
+      "rash",
+      "cough",
+      "itching",
+      "shortness of breath"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_509": {
+    "symptoms": [
+      "loss of smell",
+      "shortness of breath",
+      "rash"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_510": {
+    "symptoms": [
+      "diarrhea",
+      "sensitivity to light",
+      "loss of taste"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_511": {
+    "symptoms": [
+      "muscle pain",
+      "vomiting",
+      "nausea"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_512": {
+    "symptoms": [
+      "itching",
+      "shortness of breath",
+      "diarrhea",
+      "vomiting",
+      "nausea",
+      "cough"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_513": {
+    "symptoms": [
+      "fever",
+      "itching",
+      "runny nose"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_514": {
+    "symptoms": [
+      "muscle pain",
+      "fever",
+      "vomiting",
+      "dizziness",
+      "cough",
+      "headache"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_515": {
+    "symptoms": [
+      "fatigue",
+      "joint pain",
+      "cough",
+      "sensitivity to light",
+      "dizziness"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_516": {
+    "symptoms": [
+      "itching",
+      "loss of smell",
+      "chest pain"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_517": {
+    "symptoms": [
+      "shortness of breath",
+      "dizziness",
+      "cough"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_518": {
+    "symptoms": [
+      "fever",
+      "sensitivity to light",
+      "chest pain",
+      "joint pain",
+      "itching"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_519": {
+    "symptoms": [
+      "joint pain",
+      "cough",
+      "muscle pain",
+      "itching"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_520": {
+    "symptoms": [
+      "loss of taste",
+      "blurred vision",
+      "sensitivity to light",
+      "diarrhea",
+      "shortness of breath",
+      "joint pain"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_521": {
+    "symptoms": [
+      "joint pain",
+      "blurred vision",
+      "chest pain",
+      "headache"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_522": {
+    "symptoms": [
+      "loss of taste",
+      "fever",
+      "headache",
+      "itching"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_523": {
+    "symptoms": [
+      "headache",
+      "nausea",
+      "fever",
+      "chest pain",
+      "muscle pain"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_524": {
+    "symptoms": [
+      "sore throat",
+      "blurred vision",
+      "joint pain"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_525": {
+    "symptoms": [
+      "shortness of breath",
+      "cough",
+      "nausea"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_526": {
+    "symptoms": [
+      "joint pain",
+      "loss of smell",
+      "loss of taste",
+      "fatigue",
+      "itching"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_527": {
+    "symptoms": [
+      "headache",
+      "fatigue",
+      "sensitivity to light",
+      "runny nose",
+      "blurred vision"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_528": {
+    "symptoms": [
+      "fever",
+      "loss of taste",
+      "diarrhea",
+      "dizziness",
+      "joint pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_529": {
+    "symptoms": [
+      "headache",
+      "shortness of breath",
+      "joint pain"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_530": {
+    "symptoms": [
+      "fatigue",
+      "blurred vision",
+      "sensitivity to light",
+      "dizziness"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_531": {
+    "symptoms": [
+      "sore throat",
+      "headache",
+      "muscle pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_532": {
+    "symptoms": [
+      "fever",
+      "blurred vision",
+      "joint pain",
+      "muscle pain",
+      "dizziness"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_533": {
+    "symptoms": [
+      "diarrhea",
+      "runny nose",
+      "vomiting"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_534": {
+    "symptoms": [
+      "vomiting",
+      "nausea",
+      "fatigue",
+      "itching",
+      "fever",
+      "loss of smell"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_535": {
+    "symptoms": [
+      "dizziness",
+      "cough",
+      "rash"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_536": {
+    "symptoms": [
+      "headache",
+      "dizziness",
+      "cough",
+      "vomiting",
+      "blurred vision",
+      "sensitivity to light"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_537": {
+    "symptoms": [
+      "dizziness",
+      "muscle pain",
+      "itching",
+      "fatigue"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_538": {
+    "symptoms": [
+      "nausea",
+      "dizziness",
+      "diarrhea",
+      "blurred vision",
+      "fever",
+      "cough"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_539": {
+    "symptoms": [
+      "joint pain",
+      "rash",
+      "sensitivity to light",
+      "sore throat",
+      "cough",
+      "itching"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_540": {
+    "symptoms": [
+      "muscle pain",
+      "joint pain",
+      "chest pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_541": {
+    "symptoms": [
+      "vomiting",
+      "headache",
+      "blurred vision"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_542": {
+    "symptoms": [
+      "sensitivity to light",
+      "rash",
+      "sore throat",
+      "itching",
+      "muscle pain",
+      "chest pain"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_543": {
+    "symptoms": [
+      "nausea",
+      "chest pain",
+      "rash",
+      "headache"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_544": {
+    "symptoms": [
+      "cough",
+      "loss of taste",
+      "fatigue",
+      "headache",
+      "rash",
+      "itching"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_545": {
+    "symptoms": [
+      "fever",
+      "blurred vision",
+      "muscle pain",
+      "sore throat",
+      "diarrhea"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_546": {
+    "symptoms": [
+      "nausea",
+      "blurred vision",
+      "headache",
+      "shortness of breath",
+      "loss of taste"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_547": {
+    "symptoms": [
+      "fatigue",
+      "headache",
+      "blurred vision"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_548": {
+    "symptoms": [
+      "loss of taste",
+      "blurred vision",
+      "muscle pain",
+      "loss of smell"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_549": {
+    "symptoms": [
+      "fever",
+      "fatigue",
+      "cough",
+      "nausea"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_550": {
+    "symptoms": [
+      "loss of smell",
+      "runny nose",
+      "dizziness",
+      "headache",
+      "fatigue",
+      "joint pain"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_551": {
+    "symptoms": [
+      "rash",
+      "sore throat",
+      "headache",
+      "muscle pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_552": {
+    "symptoms": [
+      "loss of taste",
+      "dizziness",
+      "rash",
+      "fever",
+      "vomiting",
+      "headache"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_553": {
+    "symptoms": [
+      "runny nose",
+      "dizziness",
+      "joint pain",
+      "headache"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_554": {
+    "symptoms": [
+      "nausea",
+      "itching",
+      "joint pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_555": {
+    "symptoms": [
+      "runny nose",
+      "sensitivity to light",
+      "blurred vision",
+      "chest pain",
+      "diarrhea",
+      "cough"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_556": {
+    "symptoms": [
+      "diarrhea",
+      "sensitivity to light",
+      "joint pain",
+      "loss of taste",
+      "cough",
+      "rash"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_557": {
+    "symptoms": [
+      "cough",
+      "itching",
+      "blurred vision",
+      "dizziness",
+      "nausea",
+      "fever"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_558": {
+    "symptoms": [
+      "diarrhea",
+      "muscle pain",
+      "fever",
+      "dizziness",
+      "rash"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_559": {
+    "symptoms": [
+      "fatigue",
+      "headache",
+      "loss of smell",
+      "joint pain",
+      "fever",
+      "sore throat"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_560": {
+    "symptoms": [
+      "loss of taste",
+      "vomiting",
+      "shortness of breath",
+      "joint pain",
+      "diarrhea",
+      "cough"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_561": {
+    "symptoms": [
+      "blurred vision",
+      "loss of smell",
+      "headache",
+      "joint pain",
+      "runny nose"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_562": {
+    "symptoms": [
+      "joint pain",
+      "headache",
+      "nausea",
+      "muscle pain",
+      "sore throat",
+      "fever"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_563": {
+    "symptoms": [
+      "shortness of breath",
+      "vomiting",
+      "sore throat",
+      "loss of taste"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_564": {
+    "symptoms": [
+      "fatigue",
+      "fever",
+      "nausea",
+      "cough",
+      "loss of smell"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_565": {
+    "symptoms": [
+      "loss of smell",
+      "fever",
+      "rash"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_566": {
+    "symptoms": [
+      "vomiting",
+      "loss of smell",
+      "sensitivity to light",
+      "shortness of breath",
+      "nausea",
+      "rash"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_567": {
+    "symptoms": [
+      "loss of smell",
+      "loss of taste",
+      "blurred vision",
+      "vomiting",
+      "headache"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_568": {
+    "symptoms": [
+      "joint pain",
+      "sore throat",
+      "muscle pain"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_569": {
+    "symptoms": [
+      "muscle pain",
+      "rash",
+      "fever",
+      "blurred vision",
+      "runny nose"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_570": {
+    "symptoms": [
+      "joint pain",
+      "fever",
+      "nausea",
+      "shortness of breath"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_571": {
+    "symptoms": [
+      "sore throat",
+      "vomiting",
+      "loss of taste",
+      "blurred vision"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_572": {
+    "symptoms": [
+      "dizziness",
+      "headache",
+      "sore throat",
+      "cough"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_573": {
+    "symptoms": [
+      "fatigue",
+      "nausea",
+      "dizziness",
+      "blurred vision"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_574": {
+    "symptoms": [
+      "joint pain",
+      "rash",
+      "dizziness",
+      "fever"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_575": {
+    "symptoms": [
+      "sensitivity to light",
+      "itching",
+      "dizziness",
+      "rash",
+      "chest pain",
+      "loss of taste"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_576": {
+    "symptoms": [
+      "shortness of breath",
+      "rash",
+      "nausea"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_577": {
+    "symptoms": [
+      "dizziness",
+      "chest pain",
+      "sensitivity to light",
+      "shortness of breath"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_578": {
+    "symptoms": [
+      "fatigue",
+      "blurred vision",
+      "loss of smell",
+      "rash",
+      "muscle pain"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_579": {
+    "symptoms": [
+      "fever",
+      "loss of taste",
+      "runny nose",
+      "chest pain",
+      "fatigue"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_580": {
+    "symptoms": [
+      "blurred vision",
+      "diarrhea",
+      "rash",
+      "runny nose",
+      "sensitivity to light",
+      "vomiting"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_581": {
+    "symptoms": [
+      "rash",
+      "muscle pain",
+      "loss of taste"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_582": {
+    "symptoms": [
+      "diarrhea",
+      "blurred vision",
+      "vomiting",
+      "headache",
+      "itching",
+      "sensitivity to light"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_583": {
+    "symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "blurred vision",
+      "fatigue"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_584": {
+    "symptoms": [
+      "itching",
+      "chest pain",
+      "nausea",
+      "sore throat",
+      "diarrhea",
+      "cough"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_585": {
+    "symptoms": [
+      "blurred vision",
+      "headache",
+      "vomiting",
+      "sensitivity to light",
+      "cough",
+      "fever"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_586": {
+    "symptoms": [
+      "headache",
+      "loss of smell",
+      "blurred vision"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_587": {
+    "symptoms": [
+      "sore throat",
+      "dizziness",
+      "headache",
+      "muscle pain",
+      "blurred vision"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_588": {
+    "symptoms": [
+      "nausea",
+      "shortness of breath",
+      "joint pain",
+      "diarrhea"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_589": {
+    "symptoms": [
+      "loss of smell",
+      "vomiting",
+      "fatigue",
+      "sensitivity to light"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_590": {
+    "symptoms": [
+      "cough",
+      "chest pain",
+      "diarrhea",
+      "blurred vision",
+      "runny nose",
+      "fatigue"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_591": {
+    "symptoms": [
+      "muscle pain",
+      "diarrhea",
+      "joint pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_592": {
+    "symptoms": [
+      "runny nose",
+      "dizziness",
+      "nausea"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_593": {
+    "symptoms": [
+      "fatigue",
+      "loss of taste",
+      "sensitivity to light",
+      "runny nose",
+      "headache"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_594": {
+    "symptoms": [
+      "muscle pain",
+      "loss of taste",
+      "itching",
+      "loss of smell",
+      "sore throat",
+      "chest pain"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_595": {
+    "symptoms": [
+      "dizziness",
+      "runny nose",
+      "diarrhea",
+      "rash"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_596": {
+    "symptoms": [
+      "cough",
+      "fatigue",
+      "dizziness",
+      "loss of taste"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_597": {
+    "symptoms": [
+      "blurred vision",
+      "shortness of breath",
+      "loss of smell"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_598": {
+    "symptoms": [
+      "fatigue",
+      "sore throat",
+      "runny nose",
+      "itching",
+      "sensitivity to light",
+      "diarrhea"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_599": {
+    "symptoms": [
+      "rash",
+      "headache",
+      "fever"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_600": {
+    "symptoms": [
+      "vomiting",
+      "runny nose",
+      "itching",
+      "joint pain",
+      "loss of smell"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_601": {
+    "symptoms": [
+      "muscle pain",
+      "itching",
+      "joint pain",
+      "loss of smell",
+      "fever"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_602": {
+    "symptoms": [
+      "chest pain",
+      "sensitivity to light",
+      "dizziness",
+      "fever"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_603": {
+    "symptoms": [
+      "joint pain",
+      "fever",
+      "vomiting",
+      "loss of taste"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_604": {
+    "symptoms": [
+      "diarrhea",
+      "chest pain",
+      "fever",
+      "loss of smell",
+      "muscle pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_605": {
+    "symptoms": [
+      "blurred vision",
+      "chest pain",
+      "sore throat",
+      "loss of taste"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_606": {
+    "symptoms": [
+      "rash",
+      "sore throat",
+      "sensitivity to light",
+      "fever",
+      "shortness of breath",
+      "joint pain"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_607": {
+    "symptoms": [
+      "runny nose",
+      "sore throat",
+      "dizziness",
+      "fatigue",
+      "rash",
+      "diarrhea"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_608": {
+    "symptoms": [
+      "cough",
+      "nausea",
+      "fatigue",
+      "rash",
+      "blurred vision"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_609": {
+    "symptoms": [
+      "itching",
+      "vomiting",
+      "loss of smell",
+      "sensitivity to light",
+      "fever"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_610": {
+    "symptoms": [
+      "blurred vision",
+      "vomiting",
+      "loss of smell",
+      "itching",
+      "rash",
+      "shortness of breath"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_611": {
+    "symptoms": [
+      "itching",
+      "diarrhea",
+      "rash",
+      "blurred vision"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_612": {
+    "symptoms": [
+      "muscle pain",
+      "fatigue",
+      "dizziness"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_613": {
+    "symptoms": [
+      "shortness of breath",
+      "diarrhea",
+      "dizziness"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_614": {
+    "symptoms": [
+      "loss of smell",
+      "dizziness",
+      "blurred vision"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_615": {
+    "symptoms": [
+      "loss of smell",
+      "itching",
+      "vomiting"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_616": {
+    "symptoms": [
+      "vomiting",
+      "loss of taste",
+      "runny nose",
+      "cough",
+      "blurred vision"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_617": {
+    "symptoms": [
+      "diarrhea",
+      "vomiting",
+      "muscle pain"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_618": {
+    "symptoms": [
+      "dizziness",
+      "loss of taste",
+      "cough"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_619": {
+    "symptoms": [
+      "cough",
+      "chest pain",
+      "blurred vision"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_620": {
+    "symptoms": [
+      "sensitivity to light",
+      "rash",
+      "chest pain",
+      "cough",
+      "diarrhea",
+      "sore throat"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_621": {
+    "symptoms": [
+      "loss of taste",
+      "shortness of breath",
+      "fever",
+      "blurred vision",
+      "dizziness"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_622": {
+    "symptoms": [
+      "joint pain",
+      "fever",
+      "runny nose",
+      "muscle pain"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_623": {
+    "symptoms": [
+      "sore throat",
+      "blurred vision",
+      "rash",
+      "fever"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_624": {
+    "symptoms": [
+      "muscle pain",
+      "shortness of breath",
+      "loss of taste",
+      "vomiting"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_625": {
+    "symptoms": [
+      "nausea",
+      "itching",
+      "rash"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_626": {
+    "symptoms": [
+      "sensitivity to light",
+      "loss of taste",
+      "vomiting"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_627": {
+    "symptoms": [
+      "rash",
+      "vomiting",
+      "fever"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_628": {
+    "symptoms": [
+      "muscle pain",
+      "headache",
+      "fatigue"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_629": {
+    "symptoms": [
+      "vomiting",
+      "chest pain",
+      "muscle pain",
+      "dizziness"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_630": {
+    "symptoms": [
+      "dizziness",
+      "blurred vision",
+      "shortness of breath",
+      "vomiting",
+      "joint pain",
+      "cough"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_631": {
+    "symptoms": [
+      "dizziness",
+      "blurred vision",
+      "chest pain",
+      "runny nose"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_632": {
+    "symptoms": [
+      "shortness of breath",
+      "headache",
+      "chest pain",
+      "nausea",
+      "fatigue"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_633": {
+    "symptoms": [
+      "cough",
+      "diarrhea",
+      "joint pain",
+      "runny nose",
+      "itching"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_634": {
+    "symptoms": [
+      "vomiting",
+      "sensitivity to light",
+      "sore throat"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_635": {
+    "symptoms": [
+      "chest pain",
+      "fatigue",
+      "muscle pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_636": {
+    "symptoms": [
+      "diarrhea",
+      "joint pain",
+      "headache"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_637": {
+    "symptoms": [
+      "runny nose",
+      "fever",
+      "rash",
+      "blurred vision"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_638": {
+    "symptoms": [
+      "blurred vision",
+      "loss of smell",
+      "chest pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_639": {
+    "symptoms": [
+      "muscle pain",
+      "rash",
+      "vomiting",
+      "blurred vision",
+      "nausea"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_640": {
+    "symptoms": [
+      "loss of smell",
+      "fever",
+      "joint pain",
+      "rash",
+      "muscle pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_641": {
+    "symptoms": [
+      "muscle pain",
+      "fatigue",
+      "cough",
+      "headache",
+      "loss of smell"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_642": {
+    "symptoms": [
+      "blurred vision",
+      "muscle pain",
+      "loss of smell",
+      "runny nose"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_643": {
+    "symptoms": [
+      "dizziness",
+      "cough",
+      "headache",
+      "fatigue"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_644": {
+    "symptoms": [
+      "loss of taste",
+      "rash",
+      "vomiting"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_645": {
+    "symptoms": [
+      "headache",
+      "dizziness",
+      "runny nose",
+      "sore throat"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_646": {
+    "symptoms": [
+      "cough",
+      "fatigue",
+      "sensitivity to light"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_647": {
+    "symptoms": [
+      "diarrhea",
+      "fatigue",
+      "sensitivity to light"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_648": {
+    "symptoms": [
+      "sore throat",
+      "fever",
+      "runny nose",
+      "cough"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_649": {
+    "symptoms": [
+      "fatigue",
+      "fever",
+      "blurred vision",
+      "shortness of breath",
+      "itching"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_650": {
+    "symptoms": [
+      "nausea",
+      "fever",
+      "itching",
+      "headache"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_651": {
+    "symptoms": [
+      "joint pain",
+      "muscle pain",
+      "headache"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_652": {
+    "symptoms": [
+      "runny nose",
+      "headache",
+      "itching"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_653": {
+    "symptoms": [
+      "blurred vision",
+      "joint pain",
+      "dizziness",
+      "fatigue",
+      "vomiting",
+      "fever"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_654": {
+    "symptoms": [
+      "chest pain",
+      "dizziness",
+      "blurred vision"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_655": {
+    "symptoms": [
+      "fatigue",
+      "sensitivity to light",
+      "loss of taste"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_656": {
+    "symptoms": [
+      "loss of taste",
+      "vomiting",
+      "rash"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_657": {
+    "symptoms": [
+      "headache",
+      "fatigue",
+      "blurred vision",
+      "sore throat"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_658": {
+    "symptoms": [
+      "loss of taste",
+      "sensitivity to light",
+      "fatigue"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_659": {
+    "symptoms": [
+      "headache",
+      "sensitivity to light",
+      "blurred vision",
+      "muscle pain"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_660": {
+    "symptoms": [
+      "fever",
+      "fatigue",
+      "nausea",
+      "chest pain"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_661": {
+    "symptoms": [
+      "rash",
+      "runny nose",
+      "headache",
+      "joint pain",
+      "loss of smell",
+      "blurred vision"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_662": {
+    "symptoms": [
+      "loss of smell",
+      "chest pain",
+      "fever",
+      "diarrhea",
+      "muscle pain",
+      "nausea"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_663": {
+    "symptoms": [
+      "headache",
+      "fever",
+      "vomiting",
+      "runny nose"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_664": {
+    "symptoms": [
+      "chest pain",
+      "cough",
+      "loss of smell"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_665": {
+    "symptoms": [
+      "blurred vision",
+      "diarrhea",
+      "dizziness",
+      "vomiting",
+      "rash"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_666": {
+    "symptoms": [
+      "vomiting",
+      "loss of smell",
+      "nausea",
+      "sore throat",
+      "dizziness"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_667": {
+    "symptoms": [
+      "headache",
+      "diarrhea",
+      "dizziness"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_668": {
+    "symptoms": [
+      "diarrhea",
+      "nausea",
+      "sensitivity to light",
+      "blurred vision",
+      "loss of smell"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_669": {
+    "symptoms": [
+      "muscle pain",
+      "blurred vision",
+      "shortness of breath",
+      "headache",
+      "vomiting",
+      "cough"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_670": {
+    "symptoms": [
+      "blurred vision",
+      "runny nose",
+      "sore throat"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_671": {
+    "symptoms": [
+      "itching",
+      "shortness of breath",
+      "sore throat",
+      "rash",
+      "fatigue",
+      "cough"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_672": {
+    "symptoms": [
+      "rash",
+      "loss of taste",
+      "cough",
+      "itching",
+      "muscle pain",
+      "joint pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_673": {
+    "symptoms": [
+      "shortness of breath",
+      "runny nose",
+      "joint pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_674": {
+    "symptoms": [
+      "rash",
+      "muscle pain",
+      "shortness of breath"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_675": {
+    "symptoms": [
+      "dizziness",
+      "loss of smell",
+      "sore throat"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_676": {
+    "symptoms": [
+      "loss of smell",
+      "dizziness",
+      "chest pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_677": {
+    "symptoms": [
+      "headache",
+      "joint pain",
+      "itching",
+      "sore throat",
+      "chest pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_678": {
+    "symptoms": [
+      "runny nose",
+      "muscle pain",
+      "diarrhea",
+      "sensitivity to light",
+      "fatigue"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_679": {
+    "symptoms": [
+      "vomiting",
+      "headache",
+      "nausea",
+      "dizziness"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_680": {
+    "symptoms": [
+      "blurred vision",
+      "dizziness",
+      "chest pain",
+      "muscle pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_681": {
+    "symptoms": [
+      "shortness of breath",
+      "cough",
+      "fatigue",
+      "headache"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_682": {
+    "symptoms": [
+      "vomiting",
+      "sensitivity to light",
+      "runny nose",
+      "headache",
+      "chest pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_683": {
+    "symptoms": [
+      "sore throat",
+      "diarrhea",
+      "shortness of breath"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_684": {
+    "symptoms": [
+      "chest pain",
+      "nausea",
+      "fever",
+      "shortness of breath"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_685": {
+    "symptoms": [
+      "shortness of breath",
+      "dizziness",
+      "itching",
+      "sensitivity to light",
+      "diarrhea"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_686": {
+    "symptoms": [
+      "itching",
+      "fever",
+      "nausea",
+      "joint pain",
+      "loss of smell",
+      "loss of taste"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_687": {
+    "symptoms": [
+      "diarrhea",
+      "fatigue",
+      "rash"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_688": {
+    "symptoms": [
+      "diarrhea",
+      "runny nose",
+      "vomiting"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_689": {
+    "symptoms": [
+      "cough",
+      "itching",
+      "blurred vision",
+      "loss of smell",
+      "shortness of breath"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_690": {
+    "symptoms": [
+      "blurred vision",
+      "fever",
+      "shortness of breath",
+      "dizziness",
+      "chest pain"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_691": {
+    "symptoms": [
+      "fatigue",
+      "loss of taste",
+      "loss of smell",
+      "muscle pain",
+      "diarrhea",
+      "headache"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_692": {
+    "symptoms": [
+      "loss of taste",
+      "nausea",
+      "muscle pain",
+      "itching"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_693": {
+    "symptoms": [
+      "loss of smell",
+      "cough",
+      "dizziness",
+      "muscle pain",
+      "itching"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_694": {
+    "symptoms": [
+      "diarrhea",
+      "itching",
+      "fatigue",
+      "shortness of breath",
+      "sore throat"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_695": {
+    "symptoms": [
+      "vomiting",
+      "loss of smell",
+      "fatigue",
+      "headache"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_696": {
+    "symptoms": [
+      "fever",
+      "muscle pain",
+      "chest pain"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_697": {
+    "symptoms": [
+      "loss of smell",
+      "fever",
+      "sensitivity to light"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_698": {
+    "symptoms": [
+      "headache",
+      "cough",
+      "nausea",
+      "joint pain",
+      "rash",
+      "muscle pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_699": {
+    "symptoms": [
+      "fever",
+      "sensitivity to light",
+      "rash",
+      "dizziness",
+      "diarrhea",
+      "cough"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_700": {
+    "symptoms": [
+      "muscle pain",
+      "loss of smell",
+      "shortness of breath"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_701": {
+    "symptoms": [
+      "shortness of breath",
+      "joint pain",
+      "itching"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_702": {
+    "symptoms": [
+      "nausea",
+      "chest pain",
+      "cough",
+      "fatigue",
+      "vomiting"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_703": {
+    "symptoms": [
+      "headache",
+      "cough",
+      "shortness of breath"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_704": {
+    "symptoms": [
+      "chest pain",
+      "sore throat",
+      "sensitivity to light",
+      "cough",
+      "diarrhea",
+      "itching"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_705": {
+    "symptoms": [
+      "fever",
+      "chest pain",
+      "runny nose",
+      "shortness of breath",
+      "cough"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_706": {
+    "symptoms": [
+      "itching",
+      "muscle pain",
+      "dizziness",
+      "fever",
+      "blurred vision"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_707": {
+    "symptoms": [
+      "diarrhea",
+      "headache",
+      "shortness of breath",
+      "fatigue"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_708": {
+    "symptoms": [
+      "headache",
+      "muscle pain",
+      "joint pain",
+      "sore throat"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_709": {
+    "symptoms": [
+      "fever",
+      "vomiting",
+      "shortness of breath"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_710": {
+    "symptoms": [
+      "loss of smell",
+      "headache",
+      "sensitivity to light",
+      "blurred vision",
+      "joint pain",
+      "vomiting"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_711": {
+    "symptoms": [
+      "headache",
+      "runny nose",
+      "sore throat"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_712": {
+    "symptoms": [
+      "loss of taste",
+      "muscle pain",
+      "itching",
+      "loss of smell",
+      "headache"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_713": {
+    "symptoms": [
+      "runny nose",
+      "loss of taste",
+      "diarrhea",
+      "loss of smell",
+      "sensitivity to light"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_714": {
+    "symptoms": [
+      "vomiting",
+      "rash",
+      "sore throat",
+      "diarrhea",
+      "shortness of breath"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_715": {
+    "symptoms": [
+      "dizziness",
+      "loss of smell",
+      "headache",
+      "runny nose",
+      "rash",
+      "joint pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_716": {
+    "symptoms": [
+      "fatigue",
+      "sensitivity to light",
+      "muscle pain",
+      "runny nose",
+      "nausea",
+      "shortness of breath"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_717": {
+    "symptoms": [
+      "dizziness",
+      "rash",
+      "sore throat",
+      "loss of taste",
+      "blurred vision"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_718": {
+    "symptoms": [
+      "joint pain",
+      "sore throat",
+      "rash",
+      "headache"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_719": {
+    "symptoms": [
+      "vomiting",
+      "headache",
+      "joint pain",
+      "shortness of breath",
+      "muscle pain",
+      "loss of smell"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_720": {
+    "symptoms": [
+      "sensitivity to light",
+      "rash",
+      "blurred vision"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_721": {
+    "symptoms": [
+      "loss of smell",
+      "cough",
+      "headache",
+      "shortness of breath"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_722": {
+    "symptoms": [
+      "fever",
+      "loss of taste",
+      "loss of smell",
+      "dizziness",
+      "runny nose",
+      "diarrhea"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_723": {
+    "symptoms": [
+      "fever",
+      "joint pain",
+      "shortness of breath",
+      "loss of smell",
+      "sore throat",
+      "muscle pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_724": {
+    "symptoms": [
+      "runny nose",
+      "nausea",
+      "loss of taste",
+      "muscle pain"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_725": {
+    "symptoms": [
+      "blurred vision",
+      "nausea",
+      "muscle pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_726": {
+    "symptoms": [
+      "loss of taste",
+      "fever",
+      "joint pain"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_727": {
+    "symptoms": [
+      "shortness of breath",
+      "cough",
+      "itching",
+      "muscle pain",
+      "loss of smell"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_728": {
+    "symptoms": [
+      "muscle pain",
+      "chest pain",
+      "headache",
+      "blurred vision"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_729": {
+    "symptoms": [
+      "chest pain",
+      "dizziness",
+      "itching",
+      "vomiting",
+      "fatigue",
+      "blurred vision"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_730": {
+    "symptoms": [
+      "rash",
+      "sensitivity to light",
+      "sore throat",
+      "chest pain"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_731": {
+    "symptoms": [
+      "muscle pain",
+      "loss of smell",
+      "fever",
+      "cough"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_732": {
+    "symptoms": [
+      "loss of taste",
+      "cough",
+      "rash",
+      "muscle pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_733": {
+    "symptoms": [
+      "shortness of breath",
+      "dizziness",
+      "fatigue",
+      "headache",
+      "vomiting",
+      "sensitivity to light"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_734": {
+    "symptoms": [
+      "cough",
+      "vomiting",
+      "rash",
+      "diarrhea",
+      "shortness of breath",
+      "itching"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_735": {
+    "symptoms": [
+      "shortness of breath",
+      "muscle pain",
+      "joint pain",
+      "vomiting",
+      "rash",
+      "runny nose"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_736": {
+    "symptoms": [
+      "sensitivity to light",
+      "blurred vision",
+      "diarrhea",
+      "chest pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_737": {
+    "symptoms": [
+      "itching",
+      "cough",
+      "blurred vision",
+      "chest pain",
+      "sensitivity to light",
+      "joint pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_738": {
+    "symptoms": [
+      "vomiting",
+      "nausea",
+      "loss of smell",
+      "sensitivity to light",
+      "cough"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_739": {
+    "symptoms": [
+      "diarrhea",
+      "loss of smell",
+      "shortness of breath",
+      "fever",
+      "blurred vision"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_740": {
+    "symptoms": [
+      "vomiting",
+      "shortness of breath",
+      "dizziness",
+      "headache",
+      "muscle pain"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_741": {
+    "symptoms": [
+      "cough",
+      "fatigue",
+      "fever",
+      "diarrhea",
+      "shortness of breath"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_742": {
+    "symptoms": [
+      "dizziness",
+      "chest pain",
+      "runny nose",
+      "muscle pain",
+      "rash",
+      "sore throat"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_743": {
+    "symptoms": [
+      "vomiting",
+      "muscle pain",
+      "sore throat"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_744": {
+    "symptoms": [
+      "muscle pain",
+      "headache",
+      "rash",
+      "itching"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_745": {
+    "symptoms": [
+      "loss of taste",
+      "dizziness",
+      "diarrhea",
+      "runny nose",
+      "chest pain"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_746": {
+    "symptoms": [
+      "runny nose",
+      "diarrhea",
+      "shortness of breath",
+      "headache"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_747": {
+    "symptoms": [
+      "fatigue",
+      "vomiting",
+      "shortness of breath",
+      "headache"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_748": {
+    "symptoms": [
+      "shortness of breath",
+      "cough",
+      "sensitivity to light",
+      "itching"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_749": {
+    "symptoms": [
+      "shortness of breath",
+      "diarrhea",
+      "joint pain",
+      "loss of taste",
+      "vomiting",
+      "muscle pain"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_750": {
+    "symptoms": [
+      "blurred vision",
+      "fatigue",
+      "muscle pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_751": {
+    "symptoms": [
+      "joint pain",
+      "rash",
+      "cough"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_752": {
+    "symptoms": [
+      "sensitivity to light",
+      "chest pain",
+      "runny nose",
+      "shortness of breath",
+      "rash"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_753": {
+    "symptoms": [
+      "cough",
+      "fever",
+      "blurred vision",
+      "headache",
+      "itching",
+      "sensitivity to light"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_754": {
+    "symptoms": [
+      "loss of taste",
+      "fatigue",
+      "nausea"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_755": {
+    "symptoms": [
+      "loss of taste",
+      "sensitivity to light",
+      "runny nose",
+      "headache",
+      "itching"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_756": {
+    "symptoms": [
+      "cough",
+      "dizziness",
+      "joint pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_757": {
+    "symptoms": [
+      "diarrhea",
+      "fever",
+      "chest pain",
+      "fatigue"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_758": {
+    "symptoms": [
+      "chest pain",
+      "vomiting",
+      "cough",
+      "fever",
+      "diarrhea",
+      "loss of taste"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_759": {
+    "symptoms": [
+      "vomiting",
+      "runny nose",
+      "joint pain",
+      "fever",
+      "chest pain",
+      "diarrhea"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_760": {
+    "symptoms": [
+      "vomiting",
+      "sensitivity to light",
+      "diarrhea",
+      "rash",
+      "muscle pain",
+      "nausea"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_761": {
+    "symptoms": [
+      "nausea",
+      "joint pain",
+      "diarrhea"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_762": {
+    "symptoms": [
+      "muscle pain",
+      "cough",
+      "headache",
+      "runny nose"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_763": {
+    "symptoms": [
+      "nausea",
+      "sensitivity to light",
+      "loss of taste"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_764": {
+    "symptoms": [
+      "vomiting",
+      "cough",
+      "loss of smell",
+      "muscle pain",
+      "runny nose",
+      "loss of taste"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_765": {
+    "symptoms": [
+      "chest pain",
+      "sensitivity to light",
+      "vomiting",
+      "fever",
+      "itching"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_766": {
+    "symptoms": [
+      "fatigue",
+      "loss of taste",
+      "headache"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_767": {
+    "symptoms": [
+      "sensitivity to light",
+      "loss of smell",
+      "fever",
+      "vomiting",
+      "cough",
+      "chest pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_768": {
+    "symptoms": [
+      "loss of smell",
+      "itching",
+      "sore throat"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_769": {
+    "symptoms": [
+      "fever",
+      "runny nose",
+      "loss of smell",
+      "dizziness"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_770": {
+    "symptoms": [
+      "shortness of breath",
+      "loss of smell",
+      "rash",
+      "sensitivity to light",
+      "muscle pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_771": {
+    "symptoms": [
+      "nausea",
+      "vomiting",
+      "fever",
+      "fatigue",
+      "muscle pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_772": {
+    "symptoms": [
+      "sensitivity to light",
+      "vomiting",
+      "muscle pain"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_773": {
+    "symptoms": [
+      "fatigue",
+      "cough",
+      "fever",
+      "chest pain",
+      "muscle pain"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_774": {
+    "symptoms": [
+      "cough",
+      "diarrhea",
+      "shortness of breath"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_775": {
+    "symptoms": [
+      "vomiting",
+      "shortness of breath",
+      "sensitivity to light",
+      "joint pain",
+      "cough",
+      "sore throat"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_776": {
+    "symptoms": [
+      "blurred vision",
+      "dizziness",
+      "muscle pain",
+      "fatigue",
+      "sore throat",
+      "itching"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_777": {
+    "symptoms": [
+      "nausea",
+      "rash",
+      "headache",
+      "diarrhea",
+      "fatigue"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_778": {
+    "symptoms": [
+      "chest pain",
+      "joint pain",
+      "nausea",
+      "headache"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_779": {
+    "symptoms": [
+      "rash",
+      "vomiting",
+      "shortness of breath",
+      "joint pain",
+      "fever"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_780": {
+    "symptoms": [
+      "runny nose",
+      "dizziness",
+      "vomiting",
+      "loss of smell"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_781": {
+    "symptoms": [
+      "fever",
+      "fatigue",
+      "dizziness",
+      "nausea",
+      "runny nose",
+      "diarrhea"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_782": {
+    "symptoms": [
+      "dizziness",
+      "sensitivity to light",
+      "sore throat",
+      "diarrhea",
+      "blurred vision",
+      "runny nose"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_783": {
+    "symptoms": [
+      "rash",
+      "fatigue",
+      "shortness of breath",
+      "headache"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_784": {
+    "symptoms": [
+      "chest pain",
+      "loss of taste",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "cough"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_785": {
+    "symptoms": [
+      "diarrhea",
+      "rash",
+      "shortness of breath",
+      "blurred vision",
+      "itching",
+      "chest pain"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_786": {
+    "symptoms": [
+      "loss of smell",
+      "nausea",
+      "cough",
+      "itching"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_787": {
+    "symptoms": [
+      "runny nose",
+      "shortness of breath",
+      "loss of taste"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_788": {
+    "symptoms": [
+      "nausea",
+      "sore throat",
+      "rash"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_789": {
+    "symptoms": [
+      "muscle pain",
+      "shortness of breath",
+      "fever",
+      "runny nose",
+      "diarrhea"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_790": {
+    "symptoms": [
+      "muscle pain",
+      "loss of smell",
+      "fever",
+      "runny nose"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_791": {
+    "symptoms": [
+      "headache",
+      "vomiting",
+      "sensitivity to light",
+      "blurred vision",
+      "loss of taste"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_792": {
+    "symptoms": [
+      "nausea",
+      "fatigue",
+      "itching",
+      "loss of smell"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_793": {
+    "symptoms": [
+      "joint pain",
+      "dizziness",
+      "cough",
+      "chest pain",
+      "fatigue"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_794": {
+    "symptoms": [
+      "muscle pain",
+      "sore throat",
+      "nausea",
+      "fatigue",
+      "joint pain"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_795": {
+    "symptoms": [
+      "chest pain",
+      "headache",
+      "joint pain"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_796": {
+    "symptoms": [
+      "blurred vision",
+      "itching",
+      "shortness of breath",
+      "dizziness"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_797": {
+    "symptoms": [
+      "diarrhea",
+      "headache",
+      "joint pain",
+      "muscle pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_798": {
+    "symptoms": [
+      "diarrhea",
+      "loss of taste",
+      "sore throat",
+      "runny nose",
+      "shortness of breath",
+      "chest pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_799": {
+    "symptoms": [
+      "muscle pain",
+      "shortness of breath",
+      "dizziness",
+      "sensitivity to light",
+      "chest pain",
+      "cough"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_800": {
+    "symptoms": [
+      "vomiting",
+      "runny nose",
+      "shortness of breath",
+      "joint pain",
+      "itching",
+      "loss of smell"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_801": {
+    "symptoms": [
+      "rash",
+      "blurred vision",
+      "runny nose"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_802": {
+    "symptoms": [
+      "vomiting",
+      "sore throat",
+      "headache",
+      "muscle pain",
+      "sensitivity to light"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_803": {
+    "symptoms": [
+      "vomiting",
+      "chest pain",
+      "joint pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_804": {
+    "symptoms": [
+      "fatigue",
+      "cough",
+      "headache",
+      "dizziness"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_805": {
+    "symptoms": [
+      "fever",
+      "cough",
+      "joint pain",
+      "loss of smell",
+      "itching",
+      "blurred vision"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_806": {
+    "symptoms": [
+      "vomiting",
+      "joint pain",
+      "sore throat",
+      "dizziness",
+      "blurred vision"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_807": {
+    "symptoms": [
+      "rash",
+      "nausea",
+      "sensitivity to light"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_808": {
+    "symptoms": [
+      "loss of smell",
+      "blurred vision",
+      "itching"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_809": {
+    "symptoms": [
+      "shortness of breath",
+      "cough",
+      "runny nose"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_810": {
+    "symptoms": [
+      "shortness of breath",
+      "nausea",
+      "fever"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_811": {
+    "symptoms": [
+      "nausea",
+      "shortness of breath",
+      "fever",
+      "joint pain",
+      "loss of taste",
+      "rash"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_812": {
+    "symptoms": [
+      "chest pain",
+      "muscle pain",
+      "joint pain"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_813": {
+    "symptoms": [
+      "fever",
+      "sensitivity to light",
+      "chest pain",
+      "cough"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_814": {
+    "symptoms": [
+      "nausea",
+      "rash",
+      "cough"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_815": {
+    "symptoms": [
+      "blurred vision",
+      "nausea",
+      "cough",
+      "rash",
+      "vomiting"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_816": {
+    "symptoms": [
+      "itching",
+      "fatigue",
+      "rash"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_817": {
+    "symptoms": [
+      "rash",
+      "sensitivity to light",
+      "loss of smell",
+      "fever",
+      "itching"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_818": {
+    "symptoms": [
+      "joint pain",
+      "itching",
+      "loss of taste"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_819": {
+    "symptoms": [
+      "sore throat",
+      "fever",
+      "blurred vision",
+      "loss of smell",
+      "sensitivity to light",
+      "vomiting"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_820": {
+    "symptoms": [
+      "chest pain",
+      "loss of taste",
+      "fatigue",
+      "headache",
+      "diarrhea",
+      "itching"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_821": {
+    "symptoms": [
+      "sensitivity to light",
+      "joint pain",
+      "fever",
+      "nausea"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_822": {
+    "symptoms": [
+      "sensitivity to light",
+      "joint pain",
+      "dizziness"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_823": {
+    "symptoms": [
+      "fever",
+      "chest pain",
+      "cough",
+      "dizziness"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_824": {
+    "symptoms": [
+      "joint pain",
+      "muscle pain",
+      "cough",
+      "headache",
+      "vomiting",
+      "sensitivity to light"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_825": {
+    "symptoms": [
+      "dizziness",
+      "muscle pain",
+      "rash",
+      "loss of taste",
+      "vomiting"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_826": {
+    "symptoms": [
+      "muscle pain",
+      "diarrhea",
+      "blurred vision",
+      "joint pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_827": {
+    "symptoms": [
+      "runny nose",
+      "muscle pain",
+      "fever",
+      "joint pain",
+      "dizziness",
+      "sore throat"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_828": {
+    "symptoms": [
+      "itching",
+      "cough",
+      "muscle pain",
+      "fever"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_829": {
+    "symptoms": [
+      "sensitivity to light",
+      "loss of smell",
+      "dizziness",
+      "loss of taste",
+      "vomiting"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_830": {
+    "symptoms": [
+      "dizziness",
+      "diarrhea",
+      "sore throat",
+      "itching",
+      "fever"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_831": {
+    "symptoms": [
+      "fever",
+      "diarrhea",
+      "sensitivity to light",
+      "headache"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_832": {
+    "symptoms": [
+      "loss of taste",
+      "rash",
+      "muscle pain",
+      "itching"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_833": {
+    "symptoms": [
+      "sore throat",
+      "fatigue",
+      "rash",
+      "headache"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_834": {
+    "symptoms": [
+      "muscle pain",
+      "dizziness",
+      "fatigue",
+      "joint pain"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_835": {
+    "symptoms": [
+      "fatigue",
+      "runny nose",
+      "rash"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_836": {
+    "symptoms": [
+      "sore throat",
+      "fever",
+      "headache",
+      "fatigue"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_837": {
+    "symptoms": [
+      "cough",
+      "vomiting",
+      "muscle pain",
+      "rash",
+      "blurred vision"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_838": {
+    "symptoms": [
+      "rash",
+      "loss of smell",
+      "runny nose"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_839": {
+    "symptoms": [
+      "runny nose",
+      "nausea",
+      "sensitivity to light",
+      "itching",
+      "muscle pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_840": {
+    "symptoms": [
+      "loss of taste",
+      "rash",
+      "diarrhea",
+      "joint pain",
+      "itching",
+      "cough"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_841": {
+    "symptoms": [
+      "chest pain",
+      "blurred vision",
+      "runny nose",
+      "joint pain"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_842": {
+    "symptoms": [
+      "rash",
+      "nausea",
+      "loss of smell"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_843": {
+    "symptoms": [
+      "sore throat",
+      "blurred vision",
+      "headache",
+      "fatigue",
+      "loss of smell",
+      "loss of taste"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_844": {
+    "symptoms": [
+      "fever",
+      "muscle pain",
+      "loss of smell",
+      "vomiting"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_845": {
+    "symptoms": [
+      "muscle pain",
+      "runny nose",
+      "dizziness"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_846": {
+    "symptoms": [
+      "nausea",
+      "runny nose",
+      "muscle pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_847": {
+    "symptoms": [
+      "sensitivity to light",
+      "rash",
+      "fever",
+      "joint pain",
+      "chest pain",
+      "fatigue"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_848": {
+    "symptoms": [
+      "rash",
+      "joint pain",
+      "vomiting",
+      "sore throat"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_849": {
+    "symptoms": [
+      "muscle pain",
+      "fever",
+      "blurred vision"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_850": {
+    "symptoms": [
+      "nausea",
+      "rash",
+      "loss of taste"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_851": {
+    "symptoms": [
+      "dizziness",
+      "chest pain",
+      "diarrhea",
+      "fever"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_852": {
+    "symptoms": [
+      "loss of taste",
+      "fatigue",
+      "itching",
+      "sore throat",
+      "chest pain",
+      "sensitivity to light"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_853": {
+    "symptoms": [
+      "sore throat",
+      "joint pain",
+      "diarrhea",
+      "muscle pain",
+      "runny nose",
+      "rash"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_854": {
+    "symptoms": [
+      "chest pain",
+      "muscle pain",
+      "sensitivity to light",
+      "fever"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_855": {
+    "symptoms": [
+      "diarrhea",
+      "fatigue",
+      "fever"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_856": {
+    "symptoms": [
+      "fatigue",
+      "nausea",
+      "fever",
+      "joint pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_857": {
+    "symptoms": [
+      "itching",
+      "loss of smell",
+      "headache",
+      "runny nose",
+      "loss of taste",
+      "cough"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_858": {
+    "symptoms": [
+      "loss of taste",
+      "dizziness",
+      "diarrhea",
+      "rash",
+      "sore throat",
+      "joint pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_859": {
+    "symptoms": [
+      "headache",
+      "loss of smell",
+      "fever"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_860": {
+    "symptoms": [
+      "headache",
+      "rash",
+      "muscle pain",
+      "fatigue",
+      "itching"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_861": {
+    "symptoms": [
+      "sensitivity to light",
+      "blurred vision",
+      "loss of taste",
+      "nausea"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_862": {
+    "symptoms": [
+      "vomiting",
+      "fever",
+      "loss of smell"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_863": {
+    "symptoms": [
+      "itching",
+      "sore throat",
+      "fever",
+      "nausea",
+      "runny nose",
+      "muscle pain"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_864": {
+    "symptoms": [
+      "dizziness",
+      "cough",
+      "sensitivity to light",
+      "muscle pain",
+      "rash"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_865": {
+    "symptoms": [
+      "vomiting",
+      "joint pain",
+      "dizziness",
+      "chest pain"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_866": {
+    "symptoms": [
+      "joint pain",
+      "diarrhea",
+      "loss of smell",
+      "muscle pain",
+      "fever"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_867": {
+    "symptoms": [
+      "itching",
+      "nausea",
+      "fever",
+      "diarrhea",
+      "headache"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_868": {
+    "symptoms": [
+      "itching",
+      "runny nose",
+      "muscle pain",
+      "sore throat",
+      "loss of smell"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_869": {
+    "symptoms": [
+      "headache",
+      "nausea",
+      "blurred vision"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_870": {
+    "symptoms": [
+      "blurred vision",
+      "dizziness",
+      "nausea"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_871": {
+    "symptoms": [
+      "dizziness",
+      "sensitivity to light",
+      "sore throat",
+      "cough"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_872": {
+    "symptoms": [
+      "dizziness",
+      "sore throat",
+      "diarrhea",
+      "runny nose",
+      "shortness of breath",
+      "rash"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_873": {
+    "symptoms": [
+      "cough",
+      "headache",
+      "chest pain",
+      "runny nose",
+      "rash"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_874": {
+    "symptoms": [
+      "loss of smell",
+      "sensitivity to light",
+      "loss of taste",
+      "joint pain",
+      "fatigue",
+      "nausea"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_875": {
+    "symptoms": [
+      "runny nose",
+      "headache",
+      "cough"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_876": {
+    "symptoms": [
+      "loss of taste",
+      "sensitivity to light",
+      "loss of smell",
+      "itching",
+      "cough",
+      "shortness of breath"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_877": {
+    "symptoms": [
+      "vomiting",
+      "nausea",
+      "itching",
+      "joint pain"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_878": {
+    "symptoms": [
+      "vomiting",
+      "headache",
+      "loss of smell",
+      "joint pain",
+      "shortness of breath"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_879": {
+    "symptoms": [
+      "muscle pain",
+      "fatigue",
+      "joint pain",
+      "loss of taste"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_880": {
+    "symptoms": [
+      "joint pain",
+      "chest pain",
+      "rash",
+      "muscle pain",
+      "headache"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_881": {
+    "symptoms": [
+      "fever",
+      "fatigue",
+      "joint pain",
+      "sensitivity to light",
+      "muscle pain",
+      "sore throat"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_882": {
+    "symptoms": [
+      "shortness of breath",
+      "blurred vision",
+      "rash",
+      "dizziness"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_883": {
+    "symptoms": [
+      "itching",
+      "shortness of breath",
+      "fever",
+      "diarrhea"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_884": {
+    "symptoms": [
+      "blurred vision",
+      "fever",
+      "rash",
+      "cough",
+      "loss of smell",
+      "joint pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_885": {
+    "symptoms": [
+      "sore throat",
+      "fatigue",
+      "headache",
+      "itching"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_886": {
+    "symptoms": [
+      "loss of taste",
+      "joint pain",
+      "dizziness",
+      "fatigue",
+      "fever"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_887": {
+    "symptoms": [
+      "nausea",
+      "diarrhea",
+      "itching",
+      "vomiting",
+      "chest pain",
+      "sensitivity to light"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_888": {
+    "symptoms": [
+      "joint pain",
+      "chest pain",
+      "dizziness"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_889": {
+    "symptoms": [
+      "sensitivity to light",
+      "loss of taste",
+      "sore throat"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_890": {
+    "symptoms": [
+      "diarrhea",
+      "fatigue",
+      "rash",
+      "cough"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_891": {
+    "symptoms": [
+      "chest pain",
+      "blurred vision",
+      "nausea",
+      "joint pain",
+      "itching"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_892": {
+    "symptoms": [
+      "sensitivity to light",
+      "loss of taste",
+      "joint pain",
+      "rash"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_893": {
+    "symptoms": [
+      "diarrhea",
+      "muscle pain",
+      "rash",
+      "sore throat",
+      "cough"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_894": {
+    "symptoms": [
+      "diarrhea",
+      "headache",
+      "chest pain",
+      "sore throat",
+      "rash"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_895": {
+    "symptoms": [
+      "sensitivity to light",
+      "nausea",
+      "runny nose",
+      "chest pain",
+      "headache"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_896": {
+    "symptoms": [
+      "itching",
+      "fever",
+      "dizziness"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_897": {
+    "symptoms": [
+      "nausea",
+      "shortness of breath",
+      "vomiting",
+      "diarrhea"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_898": {
+    "symptoms": [
+      "vomiting",
+      "sensitivity to light",
+      "cough"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_899": {
+    "symptoms": [
+      "dizziness",
+      "fatigue",
+      "nausea"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_900": {
+    "symptoms": [
+      "cough",
+      "sore throat",
+      "vomiting"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_901": {
+    "symptoms": [
+      "blurred vision",
+      "rash",
+      "shortness of breath",
+      "loss of smell"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_902": {
+    "symptoms": [
+      "fever",
+      "blurred vision",
+      "diarrhea"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_903": {
+    "symptoms": [
+      "loss of smell",
+      "fatigue",
+      "itching",
+      "shortness of breath"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_904": {
+    "symptoms": [
+      "sensitivity to light",
+      "fever",
+      "sore throat",
+      "cough"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_905": {
+    "symptoms": [
+      "cough",
+      "vomiting",
+      "rash",
+      "muscle pain",
+      "loss of smell",
+      "fever"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_906": {
+    "symptoms": [
+      "itching",
+      "dizziness",
+      "joint pain",
+      "runny nose",
+      "nausea",
+      "cough"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_907": {
+    "symptoms": [
+      "joint pain",
+      "fatigue",
+      "vomiting",
+      "dizziness",
+      "chest pain"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_908": {
+    "symptoms": [
+      "headache",
+      "shortness of breath",
+      "loss of smell",
+      "loss of taste",
+      "cough",
+      "muscle pain"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_909": {
+    "symptoms": [
+      "headache",
+      "blurred vision",
+      "joint pain"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_910": {
+    "symptoms": [
+      "sore throat",
+      "headache",
+      "nausea"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_911": {
+    "symptoms": [
+      "cough",
+      "loss of smell",
+      "nausea"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_912": {
+    "symptoms": [
+      "shortness of breath",
+      "runny nose",
+      "fever",
+      "itching"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_913": {
+    "symptoms": [
+      "loss of smell",
+      "fever",
+      "loss of taste",
+      "vomiting",
+      "itching",
+      "headache"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_914": {
+    "symptoms": [
+      "diarrhea",
+      "loss of taste",
+      "sore throat",
+      "dizziness",
+      "chest pain"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_915": {
+    "symptoms": [
+      "fever",
+      "sensitivity to light",
+      "loss of smell"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_916": {
+    "symptoms": [
+      "rash",
+      "dizziness",
+      "loss of smell",
+      "loss of taste",
+      "blurred vision",
+      "chest pain"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_917": {
+    "symptoms": [
+      "rash",
+      "cough",
+      "diarrhea",
+      "fever",
+      "sore throat",
+      "runny nose"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_918": {
+    "symptoms": [
+      "blurred vision",
+      "fatigue",
+      "headache",
+      "runny nose",
+      "dizziness",
+      "muscle pain"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_919": {
+    "symptoms": [
+      "fatigue",
+      "joint pain",
+      "diarrhea"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_920": {
+    "symptoms": [
+      "sensitivity to light",
+      "loss of taste",
+      "vomiting",
+      "dizziness",
+      "joint pain",
+      "runny nose"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_921": {
+    "symptoms": [
+      "shortness of breath",
+      "joint pain",
+      "itching"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_922": {
+    "symptoms": [
+      "blurred vision",
+      "headache",
+      "loss of taste",
+      "diarrhea",
+      "vomiting"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_923": {
+    "symptoms": [
+      "dizziness",
+      "shortness of breath",
+      "vomiting",
+      "chest pain",
+      "itching"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_924": {
+    "symptoms": [
+      "nausea",
+      "itching",
+      "headache"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_925": {
+    "symptoms": [
+      "rash",
+      "chest pain",
+      "headache"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_926": {
+    "symptoms": [
+      "blurred vision",
+      "sore throat",
+      "dizziness",
+      "loss of taste"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_927": {
+    "symptoms": [
+      "joint pain",
+      "chest pain",
+      "diarrhea",
+      "blurred vision",
+      "nausea",
+      "muscle pain"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_928": {
+    "symptoms": [
+      "nausea",
+      "diarrhea",
+      "loss of taste"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_929": {
+    "symptoms": [
+      "nausea",
+      "loss of taste",
+      "dizziness"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_930": {
+    "symptoms": [
+      "muscle pain",
+      "vomiting",
+      "blurred vision",
+      "shortness of breath",
+      "cough",
+      "nausea"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_931": {
+    "symptoms": [
+      "vomiting",
+      "joint pain",
+      "cough",
+      "blurred vision",
+      "runny nose",
+      "chest pain"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_932": {
+    "symptoms": [
+      "muscle pain",
+      "sensitivity to light",
+      "vomiting"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_933": {
+    "symptoms": [
+      "nausea",
+      "sensitivity to light",
+      "blurred vision"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_934": {
+    "symptoms": [
+      "dizziness",
+      "joint pain",
+      "vomiting",
+      "blurred vision",
+      "fatigue"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_935": {
+    "symptoms": [
+      "muscle pain",
+      "joint pain",
+      "rash",
+      "chest pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_936": {
+    "symptoms": [
+      "vomiting",
+      "cough",
+      "joint pain",
+      "diarrhea"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_937": {
+    "symptoms": [
+      "sensitivity to light",
+      "chest pain",
+      "loss of smell"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_938": {
+    "symptoms": [
+      "joint pain",
+      "sore throat",
+      "loss of taste",
+      "runny nose"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_939": {
+    "symptoms": [
+      "itching",
+      "headache",
+      "muscle pain",
+      "chest pain",
+      "rash"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_940": {
+    "symptoms": [
+      "diarrhea",
+      "nausea",
+      "shortness of breath",
+      "loss of taste",
+      "fever"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_941": {
+    "symptoms": [
+      "blurred vision",
+      "headache",
+      "dizziness",
+      "loss of smell",
+      "itching"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_942": {
+    "symptoms": [
+      "fever",
+      "loss of taste",
+      "loss of smell",
+      "nausea"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_943": {
+    "symptoms": [
+      "shortness of breath",
+      "headache",
+      "vomiting",
+      "itching",
+      "loss of taste"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_944": {
+    "symptoms": [
+      "headache",
+      "loss of taste",
+      "cough",
+      "nausea"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_945": {
+    "symptoms": [
+      "diarrhea",
+      "joint pain",
+      "rash"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_946": {
+    "symptoms": [
+      "rash",
+      "sensitivity to light",
+      "joint pain",
+      "loss of taste"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_947": {
+    "symptoms": [
+      "shortness of breath",
+      "runny nose",
+      "joint pain"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_948": {
+    "symptoms": [
+      "cough",
+      "sensitivity to light",
+      "nausea",
+      "fever",
+      "shortness of breath",
+      "fatigue"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_949": {
+    "symptoms": [
+      "fatigue",
+      "muscle pain",
+      "headache",
+      "chest pain",
+      "loss of smell",
+      "vomiting"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_950": {
+    "symptoms": [
+      "rash",
+      "dizziness",
+      "itching",
+      "loss of taste"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_951": {
+    "symptoms": [
+      "shortness of breath",
+      "loss of taste",
+      "chest pain",
+      "runny nose"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_952": {
+    "symptoms": [
+      "runny nose",
+      "headache",
+      "loss of smell",
+      "vomiting",
+      "itching",
+      "rash"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_953": {
+    "symptoms": [
+      "muscle pain",
+      "cough",
+      "dizziness",
+      "sensitivity to light"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_954": {
+    "symptoms": [
+      "sore throat",
+      "loss of smell",
+      "cough",
+      "muscle pain",
+      "loss of taste"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_955": {
+    "symptoms": [
+      "joint pain",
+      "cough",
+      "dizziness",
+      "vomiting",
+      "sensitivity to light"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_956": {
+    "symptoms": [
+      "nausea",
+      "muscle pain",
+      "diarrhea",
+      "cough"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_957": {
+    "symptoms": [
+      "runny nose",
+      "loss of smell",
+      "dizziness",
+      "joint pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_958": {
+    "symptoms": [
+      "cough",
+      "shortness of breath",
+      "loss of taste",
+      "diarrhea",
+      "fatigue",
+      "dizziness"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_959": {
+    "symptoms": [
+      "nausea",
+      "runny nose",
+      "joint pain",
+      "rash",
+      "diarrhea"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_960": {
+    "symptoms": [
+      "vomiting",
+      "shortness of breath",
+      "sore throat"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_961": {
+    "symptoms": [
+      "shortness of breath",
+      "vomiting",
+      "chest pain",
+      "diarrhea",
+      "dizziness",
+      "rash"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_962": {
+    "symptoms": [
+      "headache",
+      "sensitivity to light",
+      "loss of taste",
+      "shortness of breath"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_963": {
+    "symptoms": [
+      "chest pain",
+      "sensitivity to light",
+      "fever"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_964": {
+    "symptoms": [
+      "chest pain",
+      "loss of taste",
+      "loss of smell",
+      "vomiting"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_965": {
+    "symptoms": [
+      "headache",
+      "shortness of breath",
+      "muscle pain",
+      "runny nose",
+      "dizziness"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_966": {
+    "symptoms": [
+      "vomiting",
+      "chest pain",
+      "itching",
+      "blurred vision",
+      "joint pain"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_967": {
+    "symptoms": [
+      "chest pain",
+      "itching",
+      "fatigue",
+      "rash"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_968": {
+    "symptoms": [
+      "runny nose",
+      "headache",
+      "diarrhea",
+      "sensitivity to light"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_969": {
+    "symptoms": [
+      "sore throat",
+      "vomiting",
+      "chest pain"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_970": {
+    "symptoms": [
+      "vomiting",
+      "dizziness",
+      "fatigue",
+      "loss of smell"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_971": {
+    "symptoms": [
+      "headache",
+      "dizziness",
+      "diarrhea",
+      "loss of taste",
+      "joint pain",
+      "sensitivity to light"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_972": {
+    "symptoms": [
+      "fatigue",
+      "muscle pain",
+      "sore throat",
+      "chest pain",
+      "runny nose",
+      "cough"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_973": {
+    "symptoms": [
+      "dizziness",
+      "itching",
+      "joint pain",
+      "runny nose"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_974": {
+    "symptoms": [
+      "dizziness",
+      "runny nose",
+      "cough"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_975": {
+    "symptoms": [
+      "fatigue",
+      "sensitivity to light",
+      "diarrhea",
+      "runny nose"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_976": {
+    "symptoms": [
+      "dizziness",
+      "fatigue",
+      "runny nose",
+      "loss of taste",
+      "shortness of breath",
+      "vomiting"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_977": {
+    "symptoms": [
+      "sore throat",
+      "runny nose",
+      "nausea",
+      "muscle pain"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_978": {
+    "symptoms": [
+      "sensitivity to light",
+      "rash",
+      "nausea",
+      "cough"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_979": {
+    "symptoms": [
+      "rash",
+      "dizziness",
+      "joint pain",
+      "blurred vision"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_980": {
+    "symptoms": [
+      "vomiting",
+      "diarrhea",
+      "sensitivity to light",
+      "joint pain",
+      "loss of smell"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_981": {
+    "symptoms": [
+      "muscle pain",
+      "shortness of breath",
+      "joint pain",
+      "diarrhea",
+      "dizziness"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_982": {
+    "symptoms": [
+      "dizziness",
+      "runny nose",
+      "shortness of breath"
+    ],
+    "treatment": "Take prescribed medication"
+  },
+  "Disease_983": {
+    "symptoms": [
+      "joint pain",
+      "rash",
+      "itching"
+    ],
+    "treatment": "Use a cold compress"
+  },
+  "Disease_984": {
+    "symptoms": [
+      "muscle pain",
+      "runny nose",
+      "dizziness",
+      "sensitivity to light",
+      "chest pain",
+      "fever"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_985": {
+    "symptoms": [
+      "nausea",
+      "blurred vision",
+      "vomiting",
+      "sore throat",
+      "fatigue"
+    ],
+    "treatment": "Get adequate sleep"
+  },
+  "Disease_986": {
+    "symptoms": [
+      "muscle pain",
+      "fatigue",
+      "headache",
+      "dizziness",
+      "fever",
+      "runny nose"
+    ],
+    "treatment": "Practice breathing exercises"
+  },
+  "Disease_987": {
+    "symptoms": [
+      "fever",
+      "loss of taste",
+      "chest pain",
+      "cough"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_988": {
+    "symptoms": [
+      "shortness of breath",
+      "chest pain",
+      "headache"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_989": {
+    "symptoms": [
+      "muscle pain",
+      "cough",
+      "dizziness",
+      "runny nose",
+      "headache",
+      "chest pain"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_990": {
+    "symptoms": [
+      "sore throat",
+      "muscle pain",
+      "chest pain"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_991": {
+    "symptoms": [
+      "vomiting",
+      "muscle pain",
+      "joint pain",
+      "loss of taste",
+      "blurred vision"
+    ],
+    "treatment": "Monitor symptoms and consult a doctor"
+  },
+  "Disease_992": {
+    "symptoms": [
+      "vomiting",
+      "headache",
+      "dizziness"
+    ],
+    "treatment": "Avoid triggers and allergens"
+  },
+  "Disease_993": {
+    "symptoms": [
+      "rash",
+      "chest pain",
+      "blurred vision",
+      "shortness of breath"
+    ],
+    "treatment": "Apply topical ointment"
+  },
+  "Disease_994": {
+    "symptoms": [
+      "sensitivity to light",
+      "chest pain",
+      "sore throat"
+    ],
+    "treatment": "Rest and drink fluids"
+  },
+  "Disease_995": {
+    "symptoms": [
+      "diarrhea",
+      "loss of smell",
+      "chest pain",
+      "nausea",
+      "rash"
+    ],
+    "treatment": "Undergo physical therapy"
+  },
+  "Disease_996": {
+    "symptoms": [
+      "blurred vision",
+      "sensitivity to light",
+      "headache",
+      "muscle pain",
+      "cough",
+      "joint pain"
+    ],
+    "treatment": "Follow a balanced diet"
+  },
+  "Disease_997": {
+    "symptoms": [
+      "fever",
+      "dizziness",
+      "fatigue",
+      "headache"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_998": {
+    "symptoms": [
+      "joint pain",
+      "blurred vision",
+      "fatigue"
+    ],
+    "treatment": "Use inhalers as prescribed"
+  },
+  "Disease_999": {
+    "symptoms": [
+      "chest pain",
+      "loss of smell",
+      "cough",
+      "diarrhea",
+      "nausea",
+      "muscle pain"
+    ],
+    "treatment": "Take over-the-counter pain relief"
+  },
+  "Disease_1000": {
+    "symptoms": [
+      "dizziness",
+      "joint pain",
+      "loss of taste",
+      "fever",
+      "blurred vision",
+      "fatigue"
+    ],
+    "treatment": "Take prescribed medication"
+  }
+}
