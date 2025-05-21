@@ -1,2 +1,19 @@
-# -Healthcare-Diagnostics-and-Treatment
-The process of determining in which a disease, illness and injury occurs that explains a person symptoms and signs. To help with the diagnosis are health status, check-up, testing such as blood and urine tests, imaging tests, and samples are be used
+# AI-Powered Healthcare Assistant
+
+An intelligent healthcare assistant that diagnoses user-reported symptoms using semantic analysis and provides recommended treatments securely.
+
+## Features
+- Symptom-based disease prediction
+- Recommended treatments
+- Encrypted symptom logging
+
+## Setup
+Install dependencies:
+```
+pip install -r requirements.txt
+```
+
+Run the assistant:
+```
+python main.py
+```
